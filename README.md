@@ -1,45 +1,27 @@
-## Hi. I'm Khojiakbar Saidrasulov ![SmillyFaceHiGIF](https://github.com/user-attachments/assets/17079402-deb1-4624-957a-4b31a8399825)
-🚀 Hojiakbar Saidrasulov | Java Backend Developer & Algorithm Enthusiast
+## Hi. I'm Khojiakbar Saidrasulov! ![👋](https://github.com/user-attachments/assets/17079402-deb1-4624-957a-4b31a8399825)
 
-👨‍💻 Dasturchi | 💡 Ijodkor | 🔥 O‘rganuvchi
-🛠 Java Backend & C++ Algoritmlari ustida ishlayman!
+🚀 **Java Backend Developer | C++ Algorithm Enthusiast**  
 
-🎯 Ma’lumotlarim:
-📍 Manzil: O‘zbekiston, Jizzax → Tashkent
-🎓 Ta’lim: TATU | Kiberxavfsizlik fakulteti
-📅 Tajriba: 1 yil C++ algoritmlari | Java Backend yo‘nalishida rivojlanmoqdaman!
+👨‍💻 **Dasturchi** | 💡 **Ijodkor** | 🔥 **O‘rganuvchi**  
 
-🌱 Hozir nimalarni o‘rganmoqdaman?
+### 📌 About Me:
+- 📍 **Location**: Uzbekistan, Jizzakh → Tashkent  
+- 🎓 **Education**: TATU | Cybersecurity Faculty  
+- 💻 **Experience**: 1 year in C++ Algorithms | Currently learning Java Backend  
 
-Java Backend (Spring Boot, REST API, Database) 💾
+### 🚀 Currently Learning:
+- 🌱 **Java Backend (Spring Boot, REST API, Databases)**  
+- 🔥 **GitHub & Open Source Contribution**  
+- 📚 **Java Full Stack (Mohirdev & Telusko Courses)**  
 
-GitHub bilan ishlash 🚀
+### ⚡ Interests:
+- ⚽ **Big Cristiano Ronaldo Fan!** 🐐  
+- 🎬 **Love watching movies**  
+- 🎮 **Gaming (FIFA, PES)**  
+- 🏃‍♂️ **Fitness & Sports**  
 
-Mohirdev & Telusko kurslari orqali Java Full Stackni o‘zlashtirish 📚
+### 📩 Contact Me:
+📧 **Email**: saidrasulovhojiakbar7@gmail.com  
+📌 **GitHub**: [Hojiakbar1101](https://github.com/Hojiakbar1101)  
 
-⚡ Qiziqishlarim:
-⚽ Ronaldo fanatiman! 🐐
-🎬 Filmlar tomosha qilish
-🎮 O‘yinlar o‘ynash (FIFA, PES)
-🏃‍♂️ Jismoniy faollik & sport bilan shug‘ullanish
-
-📩 Menga bog‘lanish:
-📧 Email: saidrasulovhojiakbar7@gmail.com
-📌 GitHub: Hojiakbar1101
-
-🔥 Kelajakka intilaman! Coding – bu nafaqat kasb, balki san’at! 🎨🚀
-
-<!--
-**Hojiakbar1101/Hojiakbar1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 _"Coding – bu nafaqat kasb, balki san’at!"_ 🎨🔥
