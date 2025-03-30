@@ -1,10 +1,7 @@
-## Hi. I'm Khojiakbar Saidrasulov! ![👋](https://em-content.zobj.net/source/microsoft/379/waving-hand_1f44b.png)
+## Hi. I'm Khojiakbar Saidrasulov! 👋  
 
 <img align="right" width="250" height="250" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
-
-<img align="right" width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="right" width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="right" width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="right" width="250" height="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
 🚀 **Java Backend Developer | C++ Algorithm Enthusiast**  
 
