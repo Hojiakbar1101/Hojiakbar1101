@@ -1,4 +1,6 @@
-## Hi. I'm Khojiakbar Saidrasulov! ![👋](https://em-content.zobj.net/source/microsoft/379/waving-hand_1f44b.png)  
+## Hi. I'm Khojiakbar Saidrasulov! ![👋](https://em-content.zobj.net/source/microsoft/379/waving-hand_1f44b.png)
+
+<img align="right" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
 
 🚀 **Java Backend Developer | C++ Algorithm Enthusiast**  
 
@@ -21,7 +23,7 @@
 - 🏃‍♂️ **Fitness & Sports** 💪  
 
 ### 📩 Contact Me:
-📧 **Email**: saidrasulovhojiakbar04@gmail.com  
+📧 **Email**: saidrasulovhojiakbar7@gmail.com  
 📌 **GitHub**: [Hojiakbar1101](https://github.com/Hojiakbar1101)  
 
 🚀 _"Coding – bu nafaqat kasb, balki san’at!"_ 🎨🔥  
