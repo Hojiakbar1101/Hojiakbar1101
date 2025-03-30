@@ -1,4 +1,4 @@
-## Hi. I'm Khojiakbar Saidrasulov! ![👋](https://github.com/user-attachments/assets/17079402-deb1-4624-957a-4b31a8399825)
+## Hi. I'm Khojiakbar Saidrasulov! ![👋](https://em-content.zobj.net/source/microsoft/379/waving-hand_1f44b.png)  
 
 🚀 **Java Backend Developer | C++ Algorithm Enthusiast**  
 
@@ -15,13 +15,13 @@
 - 📚 **Java Full Stack (Mohirdev & Telusko Courses)**  
 
 ### ⚡ Interests:
-- ⚽ **Big Cristiano Ronaldo Fan!** 🐐  
-- 🎬 **Love watching movies**  
-- 🎮 **Gaming (FIFA, PES)**  
-- 🏃‍♂️ **Fitness & Sports**  
+- ⚽ **Big Cristiano Ronaldo Fan!** 🏆🐐  
+- 🎬 **Love watching movies** 🎥  
+- 🎮 **Gaming (FIFA, PES)** 🎮  
+- 🏃‍♂️ **Fitness & Sports** 💪  
 
 ### 📩 Contact Me:
-📧 **Email**: saidrasulovhojiakbar7@gmail.com  
+📧 **Email**: saidrasulovhojiakbar04@gmail.com  
 📌 **GitHub**: [Hojiakbar1101](https://github.com/Hojiakbar1101)  
 
-🚀 _"Coding – bu nafaqat kasb, balki san’at!"_ 🎨🔥
+🚀 _"Coding – bu nafaqat kasb, balki san’at!"_ 🎨🔥  
