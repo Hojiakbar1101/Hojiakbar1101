@@ -1,4 +1,4 @@
-## Hi. I'm Khojiakbar Saidrasulov ![SmillyFaceHiGIF](https://github.com/user-attachments/assets/17079402-deb1-4624-957a-4b31a8399825)
+## Hi. I'm Khojiakbar Saidrasulov ![SmillyFaceHiGIF](https://github.com/user-attachments/assets/17079402-deb1-4624-957a-4b31a8399825 22px)
 
 
 <!--
