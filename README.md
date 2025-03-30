@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi. I'm Khojiakbar Saidrasulov https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg4b3lxNjJ2emd0cTZxemR5bXQ3NTVkaGcxOXIxNnY1bmh1M3I0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IB22SuYeEMMPTguL/giphy.gif
 
 <!--
 **Hojiakbar1101/Hojiakbar1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
