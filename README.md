@@ -10,7 +10,10 @@
 ### 📌 About Me:
 - 📍 **Location**: Uzbekistan, Jizzakh → Tashkent  
 - 🎓 **Education**: TATU | Cybersecurity Faculty  
-- 💻 **Experience**: 1 year in C++ Algorithms | Currently learning Java Backend  
+- 💻 **Experience**: 1 year in C++ Algorithms | Currently learning Java Backend
+  ## 📌 Competitive Programming  
+Solved numerous problems on **ACMP.ru, CSES, FizzBuzz, Linked List, HackerRank**  
+*(Mostly focused on ACMP.ru). Coded in **C++ & Java**.*  
 
 ### 🚀 Currently Learning:
 - 🌱 **Java Backend (Spring Boot, REST API, Databases)**  
