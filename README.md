@@ -2,11 +2,13 @@
 
 🚀 **Java Backend Developer | C++ Algorithm Enthusiast**  
 👨‍💻 **Dasturchi | 💡 Ijodkor | 🔥 O‘rganuvchi**  
+
 ## 📌 About Me  
 📍 **Location:** Uzbekistan, Jizzakh → Tashkent  
 🎓 **Education:** TATU | Cybersecurity Faculty  
 💻 **Experience:** 1 year in C++ Algorithms | Currently learning Java Backend  
 
+<!-- Logolar matndan joy olmaydi -->
 <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="170" alt="C++ Logo">
   <br>
