@@ -1,7 +1,6 @@
 # Hi. I'm Khojiakbar Saidrasulov! 👋  
 
 🚀 **Java Backend Developer | C++ Algorithm Enthusiast**  
-
 👨‍💻 **Dasturchi | 💡 Ijodkor | 🔥 O‘rganuvchi**  
 
 <p align="right">
