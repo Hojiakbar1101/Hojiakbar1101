@@ -8,13 +8,6 @@
 🎓 **Education:** TATU | Cybersecurity Faculty  
 💻 **Experience:** 1 year in C++ Algorithms | Currently learning Java Backend  
 
-<!-- Logolar matndan joy olmaydi -->
-<p align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="170" alt="C++ Logo">
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="150" alt="Java Logo">
-</p>
-
 ## 📌 Competitive Programming  
 Solved numerous problems on **ACMP.ru, CSES, FizzBuzz, Linked List, HackerRank**  
 *(Mostly focused on ACMP.ru). Coded in **C++ & Java**.*  
@@ -35,3 +28,9 @@ Solved numerous problems on **ACMP.ru, CSES, FizzBuzz, Linked List, HackerRank**
 📌 **GitHub:** [Hojiakbar1101](https://github.com/Hojiakbar1101)  
 
 🚀 **"Coding – bu nafaqat kasb, balki san’at!"** 🎨🔥  
+
+<p align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="170" alt="C++ Logo">
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="150" alt="Java Logo">
+</p>
