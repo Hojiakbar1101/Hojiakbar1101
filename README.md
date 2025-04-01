@@ -4,24 +4,26 @@
 
 👨‍💻 **Dasturchi | 💡 Ijodkor | 🔥 O‘rganuvchi**  
 
-## 📌 About Me  
-📍 **Location:** Uzbekistan, Jizzakh → Tashkent  
-🎓 **Education:** TATU | Cybersecurity Faculty  
-💻 **Experience:** 1 year in C++ Algorithms | Currently learning Java Backend  
-
-## 📌 Competitive Programming  
-Solved numerous problems on **ACMP.ru, CSES, FizzBuzz, Linked List, HackerRank**  
-*(Mostly focused on ACMP.ru). Coded in:*  
-
 <table>
   <tr>
-    <td><b>C++ & Java</b></td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="150" alt="C++ Logo">
+      <h2>📌 About Me</h2>
+      <ul>
+        <li>📍 <b>Location:</b> Uzbekistan, Jizzakh → Tashkent</li>
+        <li>🎓 <b>Education:</b> TATU | Cybersecurity Faculty</li>
+        <li>💻 <b>Experience:</b> 1 year in C++ Algorithms | Currently learning Java Backend</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="150" alt="C++ Logo"><br>
       <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="130" alt="Java Logo">
     </td>
   </tr>
 </table>
+
+## 📌 Competitive Programming  
+Solved numerous problems on **ACMP.ru, CSES, FizzBuzz, Linked List, HackerRank**  
+*(Mostly focused on ACMP.ru). Coded in **C++ & Java**.*  
 
 ## 🚀 Currently Learning  
 - 🌱 **Java Backend** (Spring Boot, REST API, Databases)  
