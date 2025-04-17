@@ -82,6 +82,7 @@ Learn how to create, query, and manage relational databases.
 Combine backend and frontend in full stack projects using Spring Boot and Vue.js.
 
 
+
 If I complete all of these modules with practice and projects, I will be fully ready as a Java Full Stack Developer! 🎯👨‍💻
 
 
