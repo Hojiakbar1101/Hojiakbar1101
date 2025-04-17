@@ -15,95 +15,60 @@
 Solved numerous problems on **ACMP.ru, CSES, FizzBuzz, Linked List, HackerRank**  
 *(Mostly focused on ACMP.ru). Coded in **C++ & Java**.*  
 
-### 🚀 Java Backend Developer Roadmap
-☕ Core Java
-🔢 Data Types & Variables
-➕ Operators & Expressions
-🔁 Control Flow (if-else, switch)
-🔄 Loops (for, while, do-while)
-🧵 Arrays & Strings
-🧮 Math & Wrapper Classes
+### 🚀 Full Stack Java Developer Roadmap
+Here's a well-structured path I'm following to become a proficient Full Stack Java Developer 💻🌐
 
-🧱 Object-Oriented Programming (OOP)
-🧪 Classes & Objects
-🧰 Constructors
-🧬 Inheritance
-🎭 Polymorphism (Overloading & Overriding)
-🧼 Encapsulation
-🧩 Abstraction (Abstract Class & Interface)
-🔐 Access Modifiers
+🎯 Introduction
+Get started with the basics and understand the roadmap.
 
-📚 Java Advanced
-📦 Packages & Imports
-🧨 Exception Handling
-🧵 Multithreading & Concurrency
-💾 File I/O (FileReader, FileWriter, BufferedReader, etc.)
-💬 Annotatons
-🧠 Reflection API
+☕ Java Core
+Learn the core Java syntax, data types, loops, conditions, and exception handling.
 
-🧺 Collections & Generics
-📋 List, Set, Map, Queue
-🔄 Iterator & ListIterator
-📦 Generics (Generic Methods & Classes)
-🔍 Comparable & Comparator
+👨‍💻 Object-Oriented Programming (OOP)
+Master concepts like classes, objects, inheritance, encapsulation, polymorphism, and abstraction.
 
-🧼 Java 8+ Features
-⚡ Lambda Expressions
-🔁 Functional Interfaces
-🌊 Stream API
-⏰ Date and Time API
-🔐 Optional Class
-🌐 Web Development Basics
-🌍 HTTP & HTTPS
-🗃️ RESTful APIs (GET, POST, PUT, DELETE)
-📬 Request & Response
+📚 Java Collections
+Understand Lists, Sets, Maps, and how to use them efficiently.
 
-🔒 Status Codes & Headers
-🔐 Authentication & Authorization
-🎯 Spring Framework
-🌱 Spring Core (IoC, DI)
-🧩 Spring Beans & Configuration
-🌀 Spring AOP
-📦 Spring Boot
-🚀 Building REST APIs with Spring Boot
+🌱 Spring Boot
+Build powerful backend applications with Spring Boot and REST APIs.
 
-🔁 Spring MVC
-📊 Spring Data JPA
-🧪 Spring Boot Testing
-🛢️ Database
-🐘 SQL (MySQL, PostgreSQL)
+🔐 Spring Security & OAuth
+Secure your apps with HTTP basic auth, JWT, and OAuth2.
 
-🧮 Database Design & Normalization
-🔌 JDBC
-📂 ORM Concepts (Object Relational Mapping)
-📋 Hibernate / JPA
-🧪 Testing
-✅ Unit Testing (JUnit 5)
-🧪 Integration Testing
-🔄 Mocking with Mockito
+📡 WebSocket
+Learn real-time communication using WebSocket in Java applications.
 
-🔐 Security
-🔐 Spring Security
-📄 JWT (JSON Web Tokens)
-🧑‍💻 Role-Based Access Control
-🔒 CORS & CSRF
-🛠 Tools & DevOps Basics
-💻 IDEs (IntelliJ IDEA, VS Code)
+🧩 Microservices
+Dive into Microservice architecture and develop scalable applications.
 
-🛠 Build Tools (Maven, Gradle)
-🐙 Git & GitHub
-🐳 Docker (Basics)
-☁️ Deployment (Heroku, Render, AWS – basic usage)
-📦 Postman for API testing
-🔁 CI/CD (GitHub Actions basics)
+🧾 HTML
+Structure your frontend using semantic HTML elements.
 
-📚 Bonus Topics
-🧠 Design Patterns (Singleton, Factory, etc.)
-💬 REST vs SOAP
-🧰 Microservices (Intro)
-📡 WebSockets (Intro)
-📱 API Versioning
-📈 Performance Optimization
+🎨 CSS
+Style your webpages with CSS, including Flexbox and Grid.
+
+🔤 TypeScript
+Get comfortable with TypeScript for scalable frontend development.
+
+🛠️ JHipster – Backend
+Generate full backend apps using JHipster + Spring Boot.
+
+🎛️ JHipster – Frontend
+Work on frontend architecture using JHipster + modern JS frameworks.
+
+🖼️ Vue.js – Practice
+Build interactive frontend apps with Vue.js & Vue Router.
+
+🗄️ SQL
+Learn how to create, query, and manage relational databases.
+
+🔄 Full Stack – Spring & Vue Practice
+Combine backend and frontend in full stack projects using Spring Boot and Vue.js.
+
+If I complete all of these modules with practice and projects, I will be fully ready as a Java Full Stack Developer! 🎯👨‍💻
+
+
 
 
 ### ⚡ Interests:
