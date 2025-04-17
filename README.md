@@ -15,56 +15,75 @@
 Solved numerous problems on **ACMP.ru, CSES, FizzBuzz, Linked List, HackerRank**  
 *(Mostly focused on ACMP.ru). Coded in **C++ & Java**.*  
 
-###  🚀 Full Stack Java Developer Roadmap
+### 🚀 Full Stack Java Developer Roadmap
 Here's a well-structured path I'm following to become a proficient Full Stack Java Developer 💻🌐
 
-<span style="color:#E67E22">🎯 Introduction</span>  
+🎯 **Introduction**  
+<sub><img src="https://emojicdn.elk.sh/rocket" alt="rocket"></sub>  
 Get started with the basics and understand the roadmap.
 
-<span style="color:#D35400">☕ Java Core</span>  
+☕ **Java Core**  
+<sub><img src="https://emojicdn.elk.sh/coffee" alt="coffee"></sub>  
 Learn the core Java syntax, data types, loops, conditions, and exception handling.
 
-<span style="color:#2980B9">👨‍💻 Object-Oriented Programming (OOP)</span>  
+👨‍💻 **Object-Oriented Programming (OOP)**  
+<sub><img src="https://emojicdn.elk.sh/man_technologist" alt="man_technologist"></sub>  
 Master concepts like classes, objects, inheritance, encapsulation, polymorphism, and abstraction.
 
-<span style="color:#9B59B6">📚 Java Collections</span>  
+📚 **Java Collections**  
+<sub><img src="https://emojicdn.elk.sh/books" alt="books"></sub>  
 Understand Lists, Sets, Maps, and how to use them efficiently.
 
-<span style="color:#27AE60">🌱 Spring Boot</span>  
+🌱 **Spring Boot**  
+<sub><img src="https://emojicdn.elk.sh/seedling" alt="seedling"></sub>  
 Build powerful backend applications with Spring Boot and REST APIs.
 
-<span style="color:#C0392B">🔐 Spring Security & OAuth</span>  
+🔐 **Spring Security & OAuth**  
+<sub><img src="https://emojicdn.elk.sh/lock" alt="lock"></sub>  
 Secure your apps with HTTP basic auth, JWT, and OAuth2.
 
-<span style="color:#16A085">📡 WebSocket</span>  
+📡 **WebSocket**  
+<sub><img src="https://emojicdn.elk.sh/antenna" alt="antenna"></sub>  
 Learn real-time communication using WebSocket in Java applications.
 
-<span style="color:#8E44AD">🧩 Microservices</span>  
+🧩 **Microservices**  
+<sub><img src="https://emojicdn.elk.sh/puzzle_piece" alt="puzzle_piece"></sub>  
 Dive into Microservice architecture and develop scalable applications.
 
-<span style="color:#F1C40F">🧾 HTML</span>  
+🧾 **HTML**  
+<sub><img src="https://emojicdn.elk.sh/page_facing_up" alt="page_facing_up"></sub>  
 Structure your frontend using semantic HTML elements.
 
-<span style="color:#E84393">🎨 CSS</span>  
+🎨 **CSS**  
+<sub><img src="https://emojicdn.elk.sh/art" alt="art"></sub>  
 Style your webpages with CSS, including Flexbox and Grid.
 
-<span style="color:#0984E3">🔤 TypeScript</span>  
+🔤 **TypeScript**  
+<sub><img src="https://emojicdn.elk.sh/abc" alt="abc"></sub>  
 Get comfortable with TypeScript for scalable frontend development.
 
-<span style="color:#2D3436">🛠️ JHipster – Backend</span>  
+🛠️ **JHipster – Backend**  
+<sub><img src="https://emojicdn.elk.sh/tools" alt="tools"></sub>  
 Generate full backend apps using JHipster + Spring Boot.
 
-<span style="color:#D63031">🎛️ JHipster – Frontend</span>  
+🎛️ **JHipster – Frontend**  
+<sub><img src="https://emojicdn.elk.sh/control_knobs" alt="control_knobs"></sub>  
 Work on frontend architecture using JHipster + modern JS frameworks.
 
-<span style="color:#00B894">🖼️ Vue.js – Practice</span>  
+🖼️ **Vue.js – Practice**  
+<sub><img src="https://emojicdn.elk.sh/frame_with_picture" alt="frame_with_picture"></sub>  
 Build interactive frontend apps with Vue.js & Vue Router.
 
-<span style="color:#6C5CE7">🗄️ SQL</span>  
+🗄️ **SQL**  
+<sub><img src="https://emojicdn.elk.sh/file_cabinet" alt="file_cabinet"></sub>  
 Learn how to create, query, and manage relational databases.
 
-<span style="color:#E17055">🔄 Full Stack – Spring & Vue Practice</span>  
+🔄 **Full Stack – Spring & Vue Practice**  
+<sub><img src="https://emojicdn.elk.sh/arrows_counterclockwise" alt="arrows_counterclockwise"></sub>  
 Combine backend and frontend in full stack projects using Spring Boot and Vue.js.
+
+If I complete all of these modules with practice and projects, I will be fully ready as a Java Full Stack Developer! 🎯👨‍💻
+
 
 
 
