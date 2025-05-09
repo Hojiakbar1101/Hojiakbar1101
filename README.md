@@ -8,7 +8,7 @@
 👨‍💻 **Dasturchi** | 💡 **Ijodkor** | 🔥 **O‘rganuvchi**  
 
 ### 📌 About Me:
-- 📍 **Location**: Uzbekistan, Jizzakh → Tashkent  
+- 📍 **Location**: Uzbekistan,  Tashkent  
 - 🎓 **Education**: TATU | Cybersecurity Faculty  
 - 💻 **Experience**: 1 year in C++ Algorithms | Currently learning Java Backend
   ## 📌 Competitive Programming  
