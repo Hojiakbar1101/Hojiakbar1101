@@ -7,7 +7,7 @@ Hi. I'm Khojiakbar Saidrasulov! 👋
 📌 About Me:
 📍 Location: Uzbekistan, Tashkent
 
-🎓 Education: TATU | Cybersecurity Faculty
+🎓 Education: TATU | Cybersecurity Faculty(external)
 
 💻 Experience: 1 year in C++ Algorithms | Currently learning Java Backend
 
