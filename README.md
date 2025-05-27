@@ -58,6 +58,11 @@ Practice combining backend modules in real-world projects.
 
 🏃‍♂️ Fitness & Sports 💪
 
+
+🌐 Languages:
+English – Intermediate proficiency (can communicate and understand technical content)
+Russian – Currently learning
+
 📩 Contact Me:
 📧 Email: saidrasulovhojiakbar7@gmail.com
 📌 GitHub: Hojiakbar1101
