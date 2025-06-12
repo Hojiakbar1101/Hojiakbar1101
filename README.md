@@ -1,10 +1,12 @@
 Hi. I'm Khojiakbar Saidrasulov! 👋  
-<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
-🚀 Full Stack Developer (Java & JavaScript) | C++ Algorithm Enthusiast
+<p align="center">
+  <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo">
+  <img width="200" height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo">
+  <img width="200" height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo">
+</p>
 
+🚀 Full Stack Developer (Java & JavaScript) | C++ Algorithm Enthusiast  
 👨‍💻 Dasturchi | 💡 Ijodkor | 🔥 O‘rganuvchi  
 
 ---
