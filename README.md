@@ -1,637 +1,272 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Khojiakbar Saidrasulov - Full Stack Developer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
+  
+# 👨‍💻 Khojiakbar Saidrasulov
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #fff;
-            overflow-x: hidden;
-        }
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Algorithm+Enthusiast;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+<img src="https://komarev.com/ghpvc/?username=Hojiakbar1101&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
-        header {
-            text-align: center;
-            padding: 60px 20px;
-            position: relative;
-        }
+</div>
 
-        .profile-image {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 5px solid rgba(255, 255, 255, 0.3);
-            margin: 0 auto 20px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 60px;
-            animation: float 3s ease-in-out infinite;
-        }
+---
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-20px); }
-        }
+## 🚀 Tech Stack
 
-        h1 {
-            font-size: 3em;
-            margin-bottom: 10px;
-            animation: slideInDown 1s ease;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-        }
+<div align="center">
 
-        @keyframes slideInDown {
-            from {
-                transform: translateY(-100px);
-                opacity: 0;
-            }
-            to {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-        .subtitle {
-            font-size: 1.3em;
-            opacity: 0.9;
-            margin-bottom: 30px;
-        }
+### 🎯 Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-        .tech-icons {
-            display: flex;
-            justify-content: center;
-            gap: 30px;
-            flex-wrap: wrap;
-            margin: 40px 0;
-        }
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-        .tech-icon {
-            width: 100px;
-            height: 100px;
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-            border: 2px solid rgba(255, 255, 255, 0.2);
-            cursor: pointer;
-        }
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-        .tech-icon:hover {
-            transform: translateY(-10px) scale(1.1);
-            background: rgba(255, 255, 255, 0.2);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-        }
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-        .tech-icon img {
-            width: 50px;
-            height: 50px;
-            margin-bottom: 8px;
-        }
+</div>
 
-        .tech-icon span {
-            font-size: 0.9em;
-            font-weight: 600;
-        }
+---
 
-        .section {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 40px;
-            margin: 30px 0;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            animation: fadeIn 1s ease;
-        }
+## 📊 GitHub Stats
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hojiakbar1101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF)
 
-        h2 {
-            font-size: 2em;
-            margin-bottom: 20px;
-            display: flex;
-            align-items: center;
-            gap: 15px;
-        }
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1)
 
-        h2::before {
-            content: '';
-            width: 40px;
-            height: 40px;
-            display: inline-block;
-            background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%);
-            border-radius: 10px;
-        }
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF)
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 25px;
-            margin-top: 30px;
-        }
+</div>
 
-        .skill-card {
-            background: rgba(255, 255, 255, 0.05);
-            padding: 25px;
-            border-radius: 15px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: all 0.3s ease;
-        }
+---
 
-        .skill-card:hover {
-            transform: translateX(10px);
-            background: rgba(255, 255, 255, 0.1);
-            border-color: rgba(255, 255, 255, 0.3);
-        }
+## 💼 About Me
 
-        .skill-card h3 {
-            font-size: 1.3em;
-            margin-bottom: 15px;
-            color: #ffd700;
-        }
+```typescript
+const khojiakbar = {
+    location: "Tashkent, Uzbekistan",
+    education: "TATU - Cybersecurity Faculty",
+    role: "Full Stack Developer",
+    experience: "1+ years",
+    
+    code: ["Java", "JavaScript", "TypeScript", "C++"],
+    
+    technologies: {
+        backend: {
+            java: ["Spring Boot", "Spring Security", "JPA/Hibernate"],
+            javascript: ["Node.js", "Express.js", "WebSocket"]
+        },
+        frontend: {
+            frameworks: ["React.js"],
+            styling: ["CSS3", "Tailwind CSS", "Responsive Design"],
+            tools: ["Webpack", "Vite"]
+        },
+        databases: ["PostgreSQL", "MySQL", "MongoDB"],
+        devOps: ["Git", "Docker", "Maven", "Gradle"],
+        authentication: ["JWT", "OAuth2"]
+    },
+    
+    competitiveProgramming: {
+        platforms: ["ACMP.ru", "CSES", "HackerRank", "LeetCode"],
+        problemsSolved: "500+",
+        primaryLanguage: "C++",
+        topics: ["Algorithms", "Data Structures", "Dynamic Programming"]
+    },
+    
+    currentlyLearning: "Microservices Architecture & Cloud Computing",
+    funFact: "I solve algorithms for breakfast! 🧮"
+};
+```
 
-        .skill-list {
-            list-style: none;
-        }
+---
 
-        .skill-list li {
-            padding: 8px 0;
-            padding-left: 25px;
-            position: relative;
-        }
+## 🎯 Development Roadmap
 
-        .skill-list li::before {
-            content: '▹';
-            position: absolute;
-            left: 0;
-            color: #4facfe;
-            font-size: 1.5em;
-        }
+<details>
+<summary><b>☕ Java Full Stack Journey</b></summary>
+<br>
 
-        .roadmap {
-            position: relative;
-            padding: 20px 0;
-        }
+```mermaid
+graph LR
+    A[Core Java] --> B[OOP Principles]
+    B --> C[Collections]
+    C --> D[Spring Boot]
+    D --> E[Spring Security]
+    E --> F[Microservices]
+    F --> G[JPA/Hibernate]
+    G --> H[REST APIs]
+    H --> I[WebSocket]
+    I --> J[Production]
+```
 
-        .roadmap-item {
-            background: rgba(255, 255, 255, 0.08);
-            padding: 25px;
-            border-radius: 15px;
-            margin: 20px 0;
-            border-left: 5px solid;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
+**Progress:**
+- ✅ Core Java & OOP
+- ✅ Collections Framework
+- ✅ Spring Boot
+- ✅ Spring Security
+- 🔄 Microservices (In Progress)
+- ⏳ Advanced Topics
 
-        .roadmap-item:nth-child(1) { border-color: #4facfe; }
-        .roadmap-item:nth-child(2) { border-color: #f093fb; }
-        .roadmap-item:nth-child(3) { border-color: #43e97b; }
+</details>
 
-        .roadmap-item:hover {
-            transform: translateX(15px);
-            background: rgba(255, 255, 255, 0.12);
-        }
+<details>
+<summary><b>⚡ JavaScript/TypeScript Stack Journey</b></summary>
+<br>
 
-        .roadmap-item::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
-            animation: shimmer 2s infinite;
-        }
+```mermaid
+graph LR
+    A[JavaScript ES6+] --> B[TypeScript]
+    B --> C[React.js]
+    C --> D[Node.js]
+    D --> E[Express.js]
+    E --> F[MongoDB]
+    F --> G[Authentication]
+    G --> H[State Management]
+    H --> I[Deployment]
+```
 
-        @keyframes shimmer {
-            0% { transform: translateX(-100%); }
-            100% { transform: translateX(100%); }
-        }
+**Progress:**
+- ✅ JavaScript ES6+
+- ✅ TypeScript
+- ✅ React.js
+- ✅ Node.js & Express
+- 🔄 Advanced Patterns (In Progress)
+- ⏳ Cloud Deployment
 
-        .roadmap-item h3 {
-            font-size: 1.5em;
-            margin-bottom: 15px;
-        }
+</details>
 
-        .roadmap-steps {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 15px;
-        }
+<details>
+<summary><b>🏆 C++ Competitive Programming Journey</b></summary>
+<br>
 
-        .step {
-            background: rgba(255, 255, 255, 0.1);
-            padding: 8px 15px;
-            border-radius: 20px;
-            font-size: 0.9em;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            transition: all 0.3s ease;
-        }
+```mermaid
+graph LR
+    A[STL Basics] --> B[Data Structures]
+    B --> C[Algorithms]
+    C --> D[Problem Patterns]
+    D --> E[Optimization]
+    E --> F[Contests]
+```
 
-        .step:hover {
-            background: rgba(255, 255, 255, 0.2);
-            transform: scale(1.05);
-        }
+**Achievements:**
+- ✅ 500+ Problems Solved
+- ✅ STL Mastery
+- ✅ Core Algorithms
+- 🔄 Advanced Topics (In Progress)
 
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px;
-            margin-top: 30px;
-        }
+</details>
 
-        .project-card {
-            background: rgba(255, 255, 255, 0.08);
-            padding: 30px;
-            border-radius: 15px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: all 0.4s ease;
-            position: relative;
-            overflow: hidden;
-        }
+---
 
-        .project-card::after {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
-            transform: rotate(45deg);
-            transition: all 0.5s ease;
-        }
+## 🚀 Featured Projects
 
-        .project-card:hover::after {
-            left: 100%;
-        }
+<div align="center">
 
-        .project-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
-            border-color: rgba(255, 255, 255, 0.3);
-        }
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **📝 Blog Platform** | Full-featured blogging system with authentication & real-time updates | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql) |
+| **💬 Real-Time Chat** | Scalable chat app with private & group messaging | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) |
+| **✅ Task Manager** | Todo app with user management & JWT auth | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) |
+| **🔐 Auth Service** | Authentication microservice with role-based access | ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) |
 
-        .project-card h3 {
-            font-size: 1.4em;
-            margin-bottom: 15px;
-            color: #4facfe;
-        }
+</div>
 
-        .tech-stack {
-            font-weight: 600;
-            color: #ffd700;
-            margin: 10px 0;
-        }
+---
 
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
+## 🏅 Competitive Programming
 
-        .stat-card {
-            background: linear-gradient(135deg, rgba(79, 172, 254, 0.2) 0%, rgba(0, 242, 254, 0.2) 100%);
-            padding: 30px;
-            border-radius: 15px;
-            text-align: center;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            transition: all 0.3s ease;
-        }
+<div align="center">
 
-        .stat-card:hover {
-            transform: scale(1.05);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-        }
+### 📈 Problem Solving Stats
 
-        .stat-number {
-            font-size: 3em;
-            font-weight: bold;
-            color: #4facfe;
-            margin-bottom: 10px;
-        }
+| Platform | Problems Solved | Focus Areas |
+|----------|----------------|-------------|
+| **ACMP.ru** | 300+ | Main Practice Platform |
+| **CSES** | 150+ | Algorithm Mastery |
+| **HackerRank** | 50+ | Data Structures |
+| **LeetCode** | Various | Interview Prep |
 
-        .contact-buttons {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-            margin-top: 30px;
-        }
+### 🎯 Algorithm Topics
+![Graph Theory](https://img.shields.io/badge/-Graph_Theory-FF6B6B?style=for-the-badge)
+![Dynamic Programming](https://img.shields.io/badge/-Dynamic_Programming-4ECDC4?style=for-the-badge)
+![Greedy Algorithms](https://img.shields.io/badge/-Greedy-95E1D3?style=for-the-badge)
+![Binary Search](https://img.shields.io/badge/-Binary_Search-F38181?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/-Data_Structures-AA96DA?style=for-the-badge)
 
-        .contact-btn {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 15px 40px;
-            border-radius: 30px;
-            text-decoration: none;
-            font-weight: 600;
-            transition: all 0.3s ease;
-            border: 2px solid rgba(255, 255, 255, 0.3);
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-        }
+</div>
 
-        .contact-btn:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-            background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
-        }
+---
 
-        .interests {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin-top: 20px;
-        }
+## 🎨 Professional Interests
 
-        .interest-tag {
-            background: rgba(255, 255, 255, 0.1);
-            padding: 12px 25px;
-            border-radius: 25px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            transition: all 0.3s ease;
-        }
+<div align="center">
 
-        .interest-tag:hover {
-            background: rgba(255, 255, 255, 0.2);
-            transform: scale(1.1);
-        }
+![Backend Architecture](https://img.shields.io/badge/-Backend_Architecture-6366F1?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/-Design_Patterns-8B5CF6?style=flat-square)
+![Algorithm Optimization](https://img.shields.io/badge/-Algorithm_Optimization-A78BFA?style=flat-square)
+![Web Performance](https://img.shields.io/badge/-Web_Performance-C4B5FD?style=flat-square)
+![Clean Code](https://img.shields.io/badge/-Clean_Code-DDD6FE?style=flat-square)
+![Open Source](https://img.shields.io/badge/-Open_Source-EDE9FE?style=flat-square)
 
-        footer {
-            text-align: center;
-            padding: 40px 20px;
-            font-size: 1.2em;
-            font-style: italic;
-        }
+</div>
 
-        .wave {
-            animation: wave 2s ease-in-out infinite;
-            display: inline-block;
-            transform-origin: 70% 70%;
-        }
+---
 
-        @keyframes wave {
-            0%, 100% { transform: rotate(0deg); }
-            25% { transform: rotate(20deg); }
-            75% { transform: rotate(-20deg); }
-        }
+## 🌐 Languages
 
-        @media (max-width: 768px) {
-            h1 { font-size: 2em; }
-            .section { padding: 25px; }
-            .tech-icons { gap: 15px; }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <div class="profile-image">👨‍💻</div>
-            <h1>Khojiakbar Saidrasulov <span class="wave">👋</span></h1>
-            <p class="subtitle">Full Stack Developer | Algorithm Enthusiast | Problem Solver</p>
-            
-            <div class="tech-icons">
-                <div class="tech-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
-                    <span>Java</span>
-                </div>
-                <div class="tech-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-                    <span>JavaScript</span>
-                </div>
-                <div class="tech-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
-                    <span>TypeScript</span>
-                </div>
-                <div class="tech-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
-                    <span>C++</span>
-                </div>
-                <div class="tech-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-                    <span>React</span>
-                </div>
-                <div class="tech-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring">
-                    <span>Spring</span>
-                </div>
-                <div class="tech-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
-                    <span>Node.js</span>
-                </div>
-                <div class="tech-icon">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-                    <span>MongoDB</span>
-                </div>
-            </div>
-        </header>
+| Language | Proficiency |
+|----------|------------|
+| 🇺🇿 Uzbek | Native |
+| 🇬🇧 English | Intermediate |
+| 🇷🇺 Russian | Learning |
 
-        <div class="section">
-            <h2>📊 Professional Stats</h2>
-            <div class="stats-grid">
-                <div class="stat-card">
-                    <div class="stat-number">500+</div>
-                    <div>Problems Solved</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">1+</div>
-                    <div>Years Experience</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">10+</div>
-                    <div>Technologies</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">∞</div>
-                    <div>Learning Mode</div>
-                </div>
-            </div>
-        </div>
+---
 
-        <div class="section">
-            <h2>💼 Technical Skills</h2>
-            <div class="skills-grid">
-                <div class="skill-card">
-                    <h3>🔧 Backend Development</h3>
-                    <ul class="skill-list">
-                        <li>Spring Boot & Spring Security</li>
-                        <li>Node.js & Express.js</li>
-                        <li>RESTful APIs & WebSocket</li>
-                        <li>Microservices Architecture</li>
-                        <li>JWT & OAuth2</li>
-                    </ul>
-                </div>
-                <div class="skill-card">
-                    <h3>⚛️ Frontend Development</h3>
-                    <ul class="skill-list">
-                        <li>React.js & TypeScript</li>
-                        <li>HTML5 & CSS3</li>
-                        <li>State Management</li>
-                        <li>Responsive Design</li>
-                        <li>Webpack & Vite</li>
-                    </ul>
-                </div>
-                <div class="skill-card">
-                    <h3>🗄️ Database & Tools</h3>
-                    <ul class="skill-list">
-                        <li>PostgreSQL & MySQL</li>
-                        <li>MongoDB & Mongoose</li>
-                        <li>Git & Docker</li>
-                        <li>IntelliJ IDEA & VS Code</li>
-                        <li>Maven & Gradle</li>
-                    </ul>
-                </div>
-                <div class="skill-card">
-                    <h3>🧮 Algorithms & DS</h3>
-                    <ul class="skill-list">
-                        <li>Graph Theory</li>
-                        <li>Dynamic Programming</li>
-                        <li>Greedy Algorithms</li>
-                        <li>Binary Search & Trees</li>
-                        <li>STL Mastery</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+## 📫 Connect With Me
 
-        <div class="section">
-            <h2>🚀 Development Roadmap</h2>
-            <div class="roadmap">
-                <div class="roadmap-item">
-                    <h3>☕ Java Full Stack</h3>
-                    <div class="roadmap-steps">
-                        <span class="step">Core Java</span>
-                        <span class="step">OOP Principles</span>
-                        <span class="step">Collections</span>
-                        <span class="step">Spring Boot</span>
-                        <span class="step">Spring Security</span>
-                        <span class="step">Microservices</span>
-                        <span class="step">JPA/Hibernate</span>
-                        <span class="step">REST APIs</span>
-                        <span class="step">WebSocket</span>
-                        <span class="step">JHipster</span>
-                        <span class="step">Deployment</span>
-                    </div>
-                </div>
-                <div class="roadmap-item">
-                    <h3>⚡ JavaScript/TypeScript Stack</h3>
-                    <div class="roadmap-steps">
-                        <span class="step">ES6+ Syntax</span>
-                        <span class="step">TypeScript</span>
-                        <span class="step">React.js</span>
-                        <span class="step">Node.js</span>
-                        <span class="step">Express.js</span>
-                        <span class="step">MongoDB</span>
-                        <span class="step">Authentication</span>
-                        <span class="step">State Management</span>
-                        <span class="step">API Integration</span>
-                        <span class="step">Testing</span>
-                        <span class="step">CI/CD</span>
-                    </div>
-                </div>
-                <div class="roadmap-item">
-                    <h3>🏆 C++ Competitive Programming</h3>
-                    <div class="roadmap-steps">
-                        <span class="step">STL Mastery</span>
-                        <span class="step">Algorithm Design</span>
-                        <span class="step">Data Structures</span>
-                        <span class="step">Problem Patterns</span>
-                        <span class="step">Optimization</span>
-                        <span class="step">Contest Participation</span>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div align="center">
 
-        <div class="section">
-            <h2>🎯 Featured Projects</h2>
-            <div class="projects-grid">
-                <div class="project-card">
-                    <h3>📝 Blog Platform</h3>
-                    <p class="tech-stack">Java • Spring Boot • React • TypeScript • PostgreSQL</p>
-                    <p>Full-featured blogging system with user authentication, CRUD operations, and real-time updates</p>
-                </div>
-                <div class="project-card">
-                    <h3>💬 Real-Time Chat App</h3>
-                    <p class="tech-stack">Node.js • WebSocket • React • MongoDB</p>
-                    <p>Scalable chat application with private messaging and group chat functionality</p>
-                </div>
-                <div class="project-card">
-                    <h3>✅ Task Management System</h3>
-                    <p class="tech-stack">React • TypeScript • Express • MongoDB</p>
-                    <p>Comprehensive todo application with user management and JWT authentication</p>
-                </div>
-                <div class="project-card">
-                    <h3>🔐 Authentication Microservice</h3>
-                    <p class="tech-stack">Spring Security • JWT • React • TypeScript</p>
-                    <p>Secure authentication system with role-based access control</p>
-                </div>
-            </div>
-        </div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidrasulovhojiakbar7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hojiakbar1101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
-        <div class="section">
-            <h2>🎨 Professional Interests</h2>
-            <div class="interests">
-                <span class="interest-tag">Backend Architecture</span>
-                <span class="interest-tag">Design Patterns</span>
-                <span class="interest-tag">Algorithm Optimization</span>
-                <span class="interest-tag">Web Performance</span>
-                <span class="interest-tag">Clean Code</span>
-                <span class="interest-tag">Open Source</span>
-                <span class="interest-tag">Cloud Computing</span>
-                <span class="interest-tag">DevOps</span>
-            </div>
-        </div>
+</div>
 
-        <div class="section">
-            <h2>📬 Contact Me</h2>
-            <div class="contact-buttons">
-                <a href="mailto:saidrasulovhojiakbar7@gmail.com" class="contact-btn">
-                    📧 Email
-                </a>
-                <a href="https://github.com/Hojiakbar1101" class="contact-btn" target="_blank">
-                    🐙 GitHub
-                </a>
-                <a href="#" class="contact-btn">
-                    💼 LinkedIn
-                </a>
-                <a href="#" class="contact-btn">
-                    📱 Telegram
-                </a>
-            </div>
-        </div>
+---
 
-        <footer>
-            <p>"Building robust solutions through clean code and continuous learning"</p>
-            <p style="margin-top: 20px; opacity: 0.8;">📍 Tashkent, Uzbekistan | 🎓 TATU - Cybersecurity</p>
-        </footer>
-    </div>
-</body>
-</html>
+<div align="center">
+
+### 💭 Quote
+*"Building robust solutions through clean code and continuous learning"*
+
+### 🐍 Contribution Graph
+![Snake animation](https://github.com/Hojiakbar1101/Hojiakbar1101/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+**⭐ From [Hojiakbar1101](https://github.com/Hojiakbar1101)**
+
+</div>
