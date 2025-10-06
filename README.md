@@ -28,7 +28,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 <div align="center">
 
@@ -100,7 +100,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-## 🏆 Competitive Programming Journey
+## ompetitive Programming Journey
 
 <details>
 <summary><b>Click to expand achievements</b></summary>
@@ -117,7 +117,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -132,7 +132,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-## 💻 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
 
@@ -159,7 +159,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-## 🎯 Professional Interests
+##  Professional Interests
 
 <div align="center">
 
@@ -178,7 +178,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-## 🌐 Language Proficiency
+## Language Proficiency
 
 <div align="center">
 
@@ -192,7 +192,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
