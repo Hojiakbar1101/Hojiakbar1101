@@ -70,16 +70,31 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hojiakbar1101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hojiakbar1101&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hojiakbar1101&theme=radical" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+### Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&bg_color=0d1117&color=ff006e&line=8338ec&point=3a86ff&area=true&hide_border=true)
+
+</div>
+
+### Profile Trophy
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Hojiakbar1101&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
