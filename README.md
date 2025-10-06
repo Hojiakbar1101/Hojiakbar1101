@@ -10,19 +10,25 @@
 
 ---
 
-##  About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** with a strong foundation in **backend development** and **competitive programming**. I love solving complex algorithmic challenges and building scalable web applications. With **500+ problems solved** across multiple platforms, I combine theoretical knowledge with practical implementation.
 
--  Currently working on **microservices architecture** and **cloud computing**
--  Learning **Kubernetes**, **Docker**, and **advanced system design**
--  Looking to collaborate on **open source projects** and **innovative web solutions**
--  Ask me about **Java**, **Spring Boot**, **React**, **algorithms**, and **data structures**
--  Fun fact: I enjoy optimizing code performance and finding elegant solutions to complex problems
+- Currently working on **microservices architecture** and **cloud computing**
+- Learning **Kubernetes**, **Docker**, and **advanced system design**
+- Looking to collaborate on **open source projects** and **innovative web solutions**
+- Ask me about **Java**, **Spring Boot**, **React**, **algorithms**, and **data structures**
+- Fun fact: I enjoy optimizing code performance and finding elegant solutions to complex problems
+
+### Interests & Passions
+
+- **Passionate About Java and JS Full Stack Development**
+- **Huge Cristiano Ronaldo Fan**
+- **Passionate About Movies & Cinema**
 
 ---
 
-##  Technology Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -64,7 +70,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-##  GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -72,13 +78,14 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&theme=tokyo-night&hide_border=true" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-##  Competitive Programming Journey
+## 🏆 Competitive Programming Journey
 
 <details>
 <summary><b>Click to expand achievements</b></summary>
@@ -137,7 +144,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-##  Professional Interests
+## 🎯 Professional Interests
 
 <div align="center">
 
@@ -156,7 +163,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-##  Language Proficiency
+## 🌐 Language Proficiency
 
 <div align="center">
 
@@ -170,7 +177,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 ---
 
-##  Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -186,17 +193,17 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 <div align="center">
 
-###  Quote
+### 💭 Quote
 
 *"Building robust solutions through clean code and continuous learning"*
 
-###  Contribution Graph
+### 🐍 Contribution Graph
 ![Snake animation](https://github.com/Hojiakbar1101/Hojiakbar1101/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/Hojiakbar1101/count.svg)
 
-**Made with  by [Hojiakbar1101](https://github.com/Hojiakbar1101)**
+**Made with ❤️ by [Hojiakbar1101](https://github.com/Hojiakbar1101)**
 
 </div>
