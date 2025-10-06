@@ -208,17 +208,78 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **backend 
 
 <div align="center">
 
-### 💭 Quote
+---
 
-*"Building robust solutions through clean code and continuous learning"*
+## Daily Dev Quotes
 
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/Hojiakbar1101/Hojiakbar1101/blob/output/github-contribution-grid-snake.svg)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Hojiakbar1101/count.svg)
+## Recent Activity
 
-**Made with ❤️ by [Hojiakbar1101](https://github.com/Hojiakbar1101)**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## Support Me
+
+If you like my work, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/hojiakbar" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+</a>
+
+---
+
+## Let's Connect and Build Something Amazing Together!
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+<details>
+<summary><b>More About Me</b></summary>
+<br>
+
+```javascript
+const hojiakbar = {
+    code: ["Java", "JavaScript", "TypeScript", "C++", "Python"],
+    askMeAbout: ["web dev", "algorithms", "backend", "competitive programming"],
+    technologies: {
+        backEnd: {
+            java: ["Spring Boot", "Spring Security", "Hibernate"],
+            js: ["Node.js", "Express"]
+        },
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+        devOps: ["Docker", "Git", "Linux"],
+        tools: ["Postman", "IntelliJ IDEA", "VS Code"]
+    },
+    architecture: ["Microservices", "RESTful APIs", "MVC"],
+    currentFocus: "Building scalable backend systems",
+    funFact: "I debug with console.log more than I'd like to admit"
+};
+```
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hojiakbar1101&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <b>Made with passion by <a href="https://github.com/Hojiakbar1101">Hojiakbar Saidrasulov</a></b>
+</p>
 
 </div>
