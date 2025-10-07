@@ -2,189 +2,266 @@
 
 # HOJIAKBAR SAIDRASULOV
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00FF94&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=FULL+STACK+DEVELOPER+%7C+COMPETITIVE+PROGRAMMER;500%2B+PROBLEMS+SOLVED+%7C+JAVA+%26+JAVASCRIPT+EXPERT;BUILDING+SCALABLE+SYSTEMS+%7C+MICROSERVICES+ARCHITECT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&duration=2000&pause=800&color=FF6B00&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=FULL+STACK+ARCHITECT+%7C+COMPETITIVE+PROGRAMMER;700%2B+PROBLEMS+CONQUERED+%7C+MICROSERVICES+MASTER;ENTERPRISE+SYSTEMS+%7C+CLOUD+NATIVE+APPLICATIONS;JAVA+%7C+JAVASCRIPT+%7C+TYPESCRIPT+%7C+REACT+%7C+SPRING" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hojiakbar1101&label=PROFILE+VIEWS&color=00ff94&style=for-the-badge&labelColor=0a0a0a)](https://github.com/Hojiakbar1101)
-[![GitHub Followers](https://img.shields.io/github/followers/Hojiakbar1101?label=FOLLOWERS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/Hojiakbar1101)
-[![Total Stars](https://img.shields.io/github/stars/Hojiakbar1101?label=TOTAL+STARS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/Hojiakbar1101)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hojiakbar1101&label=PROFILE+VIEWS&color=FF6B00&style=for-the-badge&labelColor=000000)](https://github.com/Hojiakbar1101)
+[![GitHub Followers](https://img.shields.io/github/followers/Hojiakbar1101?label=FOLLOWERS&style=for-the-badge&color=FF6B00&labelColor=000000&logo=github)](https://github.com/Hojiakbar1101)
+[![Total Stars](https://img.shields.io/github/stars/Hojiakbar1101?label=TOTAL+STARS&style=for-the-badge&color=FF6B00&labelColor=000000&logo=github)](https://github.com/Hojiakbar1101)
+[![Commits](https://img.shields.io/badge/COMMITS-5000%2B-FF6B00?style=for-the-badge&labelColor=000000&logo=git)](https://github.com/Hojiakbar1101)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## ABOUT ME
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 
-**Full Stack Developer | Competitive Programmer | Problem Solver**
+</td>
+<td width="50%" valign="top">
 
-Currently focused on building enterprise-level applications with cutting-edge technologies. Passionate about writing clean, efficient code and solving complex algorithmic challenges.
+## WHO AM I
 
-### WHAT I DO
+**FULL STACK ARCHITECT** specializing in building enterprise-grade applications that scale to millions of users.
 
-**Backend Development** - Architecting scalable microservices with Spring Boot and Node.js
+**COMPETITIVE PROGRAMMING EXPERT** with 700+ algorithmic problems solved across multiple international platforms.
 
-**Frontend Engineering** - Creating responsive user interfaces with React and TypeScript
+**MICROSERVICES SPECIALIST** designing distributed systems with event-driven architecture and cloud-native technologies.
 
-**Problem Solving** - 500+ algorithmic problems solved across multiple platforms
+**CODE CRAFTSMAN** obsessed with writing clean, efficient, and maintainable code that stands the test of time.
 
-**System Design** - Designing distributed systems and RESTful APIs
+**PROBLEM SOLVER** turning complex business requirements into elegant technical solutions.
 
-**Code Optimization** - Improving performance and writing maintainable code
+**OPEN SOURCE CONTRIBUTOR** sharing knowledge and building tools that empower the developer community.
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
-### CURRENT FOCUS
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-Working on **Microservices Architecture** and **Cloud Computing**
+## CURRENT MISSION
 
-Learning **Kubernetes**, **Docker**, and **Advanced System Design**
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="120">
+<br><strong>ARCHITECTING</strong>
+<br>Next-gen microservices platforms
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="120">
+<br><strong>MASTERING</strong>
+<br>Kubernetes orchestration patterns
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d93-7b36-4163-a4e6-663ba5fc0583.gif" width="120">
+<br><strong>BUILDING</strong>
+<br>Real-time distributed systems
+</td>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="120">
+<br><strong>EXPLORING</strong>
+<br>Advanced system design patterns
+</td>
+</tr>
+</table>
 
-Collaborating on **Open Source Projects** and **Innovative Solutions**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-Exploring **Distributed Systems** and **Event-Driven Architecture**
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## TECHNOLOGY STACK
+## TECHNOLOGY ARSENAL
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+### PROGRAMMING MASTERY
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-<br><strong>Java</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" alt="Java" />
+<br><strong>JAVA</strong>
+<br><sub>EXPERT</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-<br><strong>JavaScript</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript" />
+<br><strong>JAVASCRIPT</strong>
+<br><sub>EXPERT</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-<br><strong>TypeScript</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" alt="TypeScript" />
+<br><strong>TYPESCRIPT</strong>
+<br><sub>ADVANCED</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++" />
 <br><strong>C++</strong>
+<br><sub>ADVANCED</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
-<br><strong>Python</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" />
+<br><strong>PYTHON</strong>
+<br><sub>PROFICIENT</sub>
 </td>
-</tr>
-</table>
-
-### BACKEND TECHNOLOGIES
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
-<br><strong>Spring Boot</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-<br><strong>Express</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=hibernate" width="65" height="65" alt="Hibernate" />
-<br><strong>Hibernate</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="Maven" />
-<br><strong>Maven</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80" height="80" alt="Go" />
+<br><strong>GO</strong>
+<br><sub>LEARNING</sub>
 </td>
 </tr>
 </table>
 
-### FRONTEND TECHNOLOGIES
+### BACKEND POWERHOUSE
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-<br><strong>React</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" height="80" alt="Spring" />
+<br><strong>SPRING BOOT</strong>
+<br><sub>EXPERT</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
-<br><strong>Redux</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js" />
+<br><strong>NODE.JS</strong>
+<br><sub>ADVANCED</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-<br><strong>Tailwind CSS</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" height="80" alt="Express" />
+<br><strong>EXPRESS</strong>
+<br><sub>ADVANCED</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+<td align="center" width="140" height="140">
+<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="80" height="80" alt="Hibernate" />
+<br><strong>HIBERNATE</strong>
+<br><sub>EXPERT</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="80" height="80" alt="GraphQL" />
+<br><strong>GRAPHQL</strong>
+<br><sub>PROFICIENT</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="80" height="80" alt="Kafka" />
+<br><strong>KAFKA</strong>
+<br><sub>ADVANCED</sub>
+</td>
+</tr>
+</table>
+
+### FRONTEND EXCELLENCE
+
+<table>
+<tr>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="React" />
+<br><strong>REACT</strong>
+<br><sub>EXPERT</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80" height="80" alt="Redux" />
+<br><strong>REDUX</strong>
+<br><sub>ADVANCED</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" height="80" alt="Next.js" />
+<br><strong>NEXT.JS</strong>
+<br><sub>ADVANCED</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind" />
+<br><strong>TAILWIND</strong>
+<br><sub>EXPERT</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" />
 <br><strong>HTML5</strong>
+<br><sub>EXPERT</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3" />
 <br><strong>CSS3</strong>
+<br><sub>EXPERT</sub>
 </td>
 </tr>
 </table>
 
-### DATABASES & CACHING
+### DATABASE MASTERY
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL" />
+<br><strong>POSTGRESQL</strong>
+<br><sub>EXPERT</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-<br><strong>MongoDB</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80" alt="MongoDB" />
+<br><strong>MONGODB</strong>
+<br><sub>ADVANCED</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-<br><strong>MySQL</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80" alt="MySQL" />
+<br><strong>MYSQL</strong>
+<br><sub>ADVANCED</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-<br><strong>Redis</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="80" height="80" alt="Redis" />
+<br><strong>REDIS</strong>
+<br><sub>EXPERT</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="80" height="80" alt="Elasticsearch" />
+<br><strong>ELASTICSEARCH</strong>
+<br><sub>PROFICIENT</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="80" height="80" alt="Cassandra" />
+<br><strong>CASSANDRA</strong>
+<br><sub>LEARNING</sub>
 </td>
 </tr>
 </table>
 
-### DEVOPS & TOOLS
+### DEVOPS & CLOUD
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-<br><strong>Docker</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" alt="Docker" />
+<br><strong>DOCKER</strong>
+<br><sub>EXPERT</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
-<br><strong>Kubernetes</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="80" height="80" alt="Kubernetes" />
+<br><strong>KUBERNETES</strong>
+<br><sub>ADVANCED</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="80" alt="AWS" />
 <br><strong>AWS</strong>
+<br><sub>ADVANCED</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="80" height="80" alt="Jenkins" />
+<br><strong>JENKINS</strong>
+<br><sub>PROFICIENT</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="80" height="80" alt="Nginx" />
+<br><strong>NGINX</strong>
+<br><sub>ADVANCED</sub>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="80" height="80" alt="Terraform" />
+<br><strong>TERRAFORM</strong>
+<br><sub>LEARNING</sub>
 </td>
 </tr>
 </table>
@@ -193,548 +270,302 @@ Exploring **Distributed Systems** and **Event-Driven Architecture**
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" />
-<br><strong>IntelliJ IDEA</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80" height="80" alt="IntelliJ" />
+<br><strong>INTELLIJ IDEA</strong>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-<br><strong>VS Code</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80" alt="VS Code" />
+<br><strong>VS CODE</strong>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-<br><strong>Postman</strong>
+<td align="center" width="140" height="140">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80" height="80" alt="Postman" />
+<br><strong>POSTMAN</strong>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
-<br><strong>Nginx</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git" />
+<br><strong>GIT</strong>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=gradle" width="65" height="65" alt="Gradle" />
-<br><strong>Gradle</strong>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80" alt="Linux" />
+<br><strong>LINUX</strong>
+</td>
+<td align="center" width="140" height="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="80" height="80" alt="Gradle" />
+<br><strong>GRADLE</strong>
 </td>
 </tr>
 </table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## GITHUB ANALYTICS
+## GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=Hojiakbar1101&show_icons=true&count_private=true&hide_border=true&title_color=00ff94&icon_color=00ff94&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="GitHub Stats" />
-<img width="49%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&border_radius=15" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hojiakbar1101&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_radius=20&cache_seconds=1800" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border_radius=20" alt="GitHub Streak" />
 
-<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&hide_border=true&title_color=00ff94&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=15" alt="Top Languages" />
-<img width="49%" height="220px" src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&custom_title=Contribution%20Activity&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true&border_radius=15" alt="Activity Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&hide_border=true&title_color=FF6B00&text_color=ffffff&bg_color=0d1117&langs_count=12&border_radius=20&exclude_repo=repo1,repo2" alt="Top Languages" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Hojiakbar1101&limit=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&border_radius=20" alt="Contributors" />
 
 </div>
 
 <div align="center">
 
-### GITHUB ACHIEVEMENTS
+### ACHIEVEMENT SHOWCASE
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hojiakbar1101&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=1&column=8&border_radius=15" alt="Trophy" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hojiakbar1101&theme=radical&no-frame=true&no-bg=false&margin-w=12&margin-h=12&row=2&column=6&border_radius=20&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="Trophy" width="100%" />
 
 </div>
 
----
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+### CONTRIBUTION HEATMAP
 
-## COMPETITIVE PROGRAMMING
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&custom_title=Contribution%20Graph%20-%20Full%20Year&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=true&height=400" alt="Contribution Graph" width="98%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## COMPETITIVE PROGRAMMING EXCELLENCE
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 
 ### PROBLEM SOLVING STATISTICS
 
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/TOTAL_SOLVED-500+-00ff94?style=for-the-badge&labelColor=0a0a0a&logo=codechef&logoColor=white" />
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/TOTAL_SOLVED-700+-FF6B00?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=white" />
+<br><strong>PROBLEMS CONQUERED</strong>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/ACMP.RU-300+-4CAF50?style=for-the-badge&labelColor=0a0a0a&logo=codeforces&logoColor=white" />
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/ACMP.RU-350+-00D9FF?style=for-the-badge&labelColor=000000&logo=codeforces&logoColor=white" />
+<br><strong>ACMP SOLUTIONS</strong>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/CSES-150+-FF9800?style=for-the-badge&labelColor=0a0a0a&logo=leetcode&logoColor=white" />
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/CSES-200+-FFD700?style=for-the-badge&labelColor=000000&logo=leetcode&logoColor=white" />
+<br><strong>CSES PROBLEMS</strong>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/HACKERRANK-50+-2EC866?style=for-the-badge&labelColor=0a0a0a&logo=hackerrank&logoColor=white" />
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/HACKERRANK-100+-2EC866?style=for-the-badge&labelColor=000000&logo=hackerrank&logoColor=white" />
+<br><strong>HACKERRANK STARS</strong>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/LEETCODE-50+-FFA116?style=for-the-badge&labelColor=000000&logo=leetcode&logoColor=white" />
+<br><strong>LEETCODE MEDIUM</strong>
 </td>
 </tr>
 </table>
 
-### ALGORITHM EXPERTISE
+### ALGORITHM MASTERY LEVELS
 
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/GRAPH_THEORY-ADVANCED-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/GRAPH_THEORY-MASTER-FF0000?style=for-the-badge&labelColor=000000" />
+<br><sub>DFS, BFS, Dijkstra, Floyd-Warshall</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/DYNAMIC_PROGRAMMING-EXPERT-4ECDC4?style=for-the-badge&labelColor=0a0a0a" />
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/DYNAMIC_PROGRAMMING-EXPERT-00D9FF?style=for-the-badge&labelColor=000000" />
+<br><sub>Knapsack, LCS, Matrix Chain</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/GREEDY_ALGORITHMS-PROFICIENT-95E1D3?style=for-the-badge&labelColor=0a0a0a" />
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/GREEDY-ADVANCED-00FF94?style=for-the-badge&labelColor=000000" />
+<br><sub>Activity Selection, Huffman</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/BINARY_SEARCH-MASTER-F38181?style=for-the-badge&labelColor=0a0a0a" />
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/BINARY_SEARCH-MASTER-FFD700?style=for-the-badge&labelColor=000000" />
+<br><sub>Lower Bound, Upper Bound</sub>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/BACKTRACKING-PROFICIENT-FF00FF?style=for-the-badge&labelColor=000000" />
+<br><sub>N-Queens, Sudoku Solver</sub>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/DIVIDE_CONQUER-ADVANCED-FFA500?style=for-the-badge&labelColor=000000" />
+<br><sub>Merge Sort, Quick Sort</sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/DATA_STRUCTURES-EXPERT-AA96DA?style=for-the-badge&labelColor=0a0a0a" />
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/SEGMENT_TREES-INTERMEDIATE-9B59B6?style=for-the-badge&labelColor=000000" />
+<br><sub>Range Queries, Lazy Propagation</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/SORTING-ADVANCED-FCBAD3?style=for-the-badge&labelColor=0a0a0a" />
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/FENWICK_TREE-PROFICIENT-3498DB?style=for-the-badge&labelColor=000000" />
+<br><sub>Binary Indexed Tree</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/GRAPH_TRAVERSAL-PROFICIENT-FFFFD2?style=for-the-badge&labelColor=0a0a0a" />
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/TRIE-ADVANCED-E74C3C?style=for-the-badge&labelColor=000000" />
+<br><sub>Prefix Tree, Auto-complete</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/STRING_ALGORITHMS-INTERMEDIATE-A8D8EA?style=for-the-badge&labelColor=0a0a0a" />
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/HEAP-EXPERT-1ABC9C?style=for-the-badge&labelColor=000000" />
+<br><sub>Priority Queue, Heap Sort</sub>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/BIT_MANIPULATION-PROFICIENT-F39C12?style=for-the-badge&labelColor=000000" />
+<br><sub>XOR Tricks, Bit Masking</sub>
+</td>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/SLIDING_WINDOW-ADVANCED-E67E22?style=for-the-badge&labelColor=000000" />
+<br><sub>Two Pointer, Deque</sub>
+</td>
+</tr>
+</table>
+
+### DATA STRUCTURES EXPERTISE
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/ARRAYS-MASTER-FF6B00?style=flat-square&labelColor=000000" />
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/LINKED_LISTS-EXPERT-00D9FF?style=flat-square&labelColor=000000" />
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/STACKS-EXPERT-00FF94?style=flat-square&labelColor=000000" />
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/QUEUES-EXPERT-FFD700?style=flat-square&labelColor=000000" />
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/TREES-ADVANCED-FF00FF?style=flat-square&labelColor=000000" />
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/GRAPHS-MASTER-FFA500?style=flat-square&labelColor=000000" />
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/HASH_TABLES-EXPERT-9B59B6?style=flat-square&labelColor=000000" />
 </td>
 </tr>
 </table>
 
 ### COMPETITIVE PROGRAMMING JOURNEY
 
-**Main Practice Platform** - ACMP.ru with 300+ problems solved
+**PRIMARY BATTLEGROUND** - ACMP.ru with 350+ victories and counting
 
-**Algorithm Mastery** - CSES problem set with 150+ solutions
+**ALGORITHM MASTERY** - CSES problem set with 200+ elegant solutions
 
-**Data Structures Focus** - HackerRank certification and practice
+**DATA STRUCTURE FOCUS** - HackerRank certifications and advanced implementations
 
-**Interview Preparation** - LeetCode daily challenges and contests
+**INTERVIEW PREPARATION** - LeetCode daily challenges and contest participation
 
-**Topics Mastered** - Graph Theory, Dynamic Programming, Greedy, Binary Search, STL
+**COMPLEXITY ANALYSIS** - Big O notation expert for time and space optimization
 
-**Advanced Topics** - Segment Trees, Fenwick Trees, Advanced Graph Algorithms
+**PROBLEM CATEGORIES** - Arrays, Strings, Trees, Graphs, DP, Greedy, Math, Geometry
 
-</div>
+**ADVANCED TOPICS** - Segment Trees, Fenwick Trees, Trie, Advanced Graph Algorithms
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## FEATURED PROJECTS
-
-<div align="center">
-
-### BLOG PLATFORM
-
-**Enterprise-grade blogging system with authentication and real-time updates**
-
-Technologies: Java · Spring Boot · Spring Security · React · TypeScript · PostgreSQL · Redis · JWT
-
-Features: User authentication, Role-based access, Rich text editor, Real-time notifications, Image upload, Comment system
-
----
-
-### REAL-TIME CHAT APPLICATION
-
-**Scalable chat application with private and group messaging capabilities**
-
-Technologies: Node.js · WebSocket · React · MongoDB · Redis · Express
-
-Features: Real-time messaging, Group chats, File sharing, Online status, Message history, Typing indicators
-
----
-
-### TASK MANAGEMENT SYSTEM
-
-**Todo application with advanced user management and JWT authentication**
-
-Technologies: React · TypeScript · Node.js · Express · MongoDB · Redux
-
-Features: Task CRUD operations, User roles, JWT auth, Task filtering, Priority management, Deadline tracking
-
----
-
-### AUTHENTICATION MICROSERVICE
-
-**Secure authentication service with role-based access control**
-
-Technologies: Spring Security · JWT · Spring Boot · React · PostgreSQL
-
-Features: User registration, Login/Logout, Token refresh, Role management, Password recovery, Email verification
+**CODE OPTIMIZATION** - Writing efficient code with optimal time and space complexity
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## PROFESSIONAL EXPERTISE
-
-<div align="center">
-
-### BACKEND DEVELOPMENT
-
-**Microservices Architecture** - Designing and implementing distributed systems
-
-**RESTful API Design** - Creating scalable and maintainable APIs
-
-**Database Optimization** - Query optimization and indexing strategies
-
-**Authentication & Authorization** - JWT, OAuth2, Spring Security
-
-**Caching Strategies** - Redis implementation for performance
-
-**Message Queues** - RabbitMQ and Kafka integration
-
-### FRONTEND DEVELOPMENT
-
-**React Ecosystem** - Hooks, Context API, Redux state management
-
-**TypeScript** - Type-safe application development
-
-**Responsive Design** - Mobile-first approach with Tailwind CSS
-
-**Performance Optimization** - Code splitting and lazy loading
-
-**Modern JavaScript** - ES6+ features and best practices
-
-**Component Architecture** - Reusable and maintainable components
-
-### DEVOPS & DEPLOYMENT
-
-**Containerization** - Docker for consistent environments
-
-**Orchestration** - Kubernetes cluster management
-
-**CI/CD Pipelines** - Automated testing and deployment
-
-**Cloud Services** - AWS infrastructure and services
-
-**Version Control** - Git workflows and branching strategies
-
-**Monitoring** - Application performance monitoring
-
-### SOFTWARE ENGINEERING
-
-**Design Patterns** - Factory, Singleton, Observer, Strategy
-
-**SOLID Principles** - Writing maintainable code
-
-**Clean Architecture** - Separation of concerns
-
-**Test-Driven Development** - Unit and integration testing
-
-**Code Review** - Best practices and quality assurance
-
-**Agile Methodology** - Scrum and Kanban workflows
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## CONNECT WITH ME
+## FEATURED PROJECTS SHOWCASE
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
-<a href="mailto:saidrasulovhojiakbar7@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
-</a>
+<td width="50%">
+
+### E-COMMERCE MICROSERVICES PLATFORM
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+**Scalable microservices architecture handling 100k+ daily transactions**
+
+**Tech Stack:** Spring Boot, Kubernetes, Kafka, PostgreSQL, Redis, React
+
+**Features:**
+- User service with JWT authentication
+- Product catalog with Elasticsearch
+- Order processing with event sourcing
+- Payment gateway integration
+- Real-time inventory management
+- Distributed tracing with Jaeger
+- API gateway with rate limiting
+- Service mesh with Istio
+
+**Architecture:** Event-driven, CQRS pattern, Saga orchestration
+
 </td>
-<td align="center" width="200">
-<a href="https://linkedin.com/in/hojiakbar-saidrasulov">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://t.me/hojiakbar_dev">
-<img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" />
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://github.com/Hojiakbar1101">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
-</a>
+<td width="50%">
+
+### REAL-TIME COLLABORATION PLATFORM
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**WebSocket-based collaboration tool for distributed teams**
+
+**Tech Stack:** Node.js, Socket.io, React, MongoDB, Redis, Docker
+
+**Features:**
+- Real-time document editing
+- Video conferencing integration
+- Chat with file sharing
+- Presence indicators
+- Collaborative whiteboard
+- Version control system
+- Role-based permissions
+- Offline support with sync
+
+**Performance:** Sub-100ms latency, 10k concurrent users
+
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
-<a href="https://hojiakbar.dev">
-<img src="https://img.shields.io/badge/PORTFOLIO-00ff94?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" />
-</a>
+<td width="50%">
+
+### DEVOPS AUTOMATION SUITE
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**CI/CD pipeline automation with infrastructure as code**
+
+**Tech Stack:** Jenkins, Docker, Kubernetes, Terraform, Ansible, Prometheus
+
+**Features:**
+- Automated testing pipeline
+- Container orchestration
+- Infrastructure provisioning
+- Configuration management
+- Monitoring and alerting
+- Log aggregation with ELK
+- Automated rollback system
+- Security scanning integration
+
+**Impact:** 70% reduction in deployment time, zero downtime deployments
+
 </td>
-<td align="center" width="200">
-<a href="https://leetcode.com/hojiakbar">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" />
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://hackerrank.com/hojiakbar">
-<img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" />
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://codeforces.com/profile/hojiakbar">
-<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0a0a" />
-</a>
-</td>
-</tr>
-</table>
+<td width="50%">
 
-<br>
+### AI-POWERED CODE REVIEWER
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-</div>
+**Machine learning system for automated code review and suggestions**
 
----
+**Tech Stack:** Python, TensorFlow, FastAPI, React, PostgreSQL
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+**Features:**
+- Static code analysis
+- Bug detection algorithms
+- Code smell identification
+- Performance optimization hints
+- Security vulnerability scanning
+- Best practices enforcement
+- Code complexity metrics
+- Automated refactoring suggestions
 
-## DEVELOPMENT PHILOSOPHY
-
-<div align="center">
-
-> "Code is like humor. When you have to explain it, it's bad."
-
-**WRITE CLEAN CODE** - Readable and maintainable code is more important than clever code
-
-**TEST EVERYTHING** - Automated tests catch bugs before they reach production
-
-**OPTIMIZE LATER** - Make it work, make it right, make it fast
-
-**NEVER STOP LEARNING** - Technology evolves, and so should we
-
-**COLLABORATE ACTIVELY** - Great software is built by great teams
-
-**SHIP EARLY, ITERATE OFTEN** - Feedback drives better products
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-### WEEKLY DEVELOPMENT BREAKDOWN
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true&custom_title=Last%2030%20Days%20Contribution%20Graph&height=400" alt="Contribution Graph" width="100%" />
-
-### CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## LANGUAGE PROFICIENCY
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="250">
-<h3>UZBEK</h3>
-<img src="https://img.shields.io/badge/NATIVE-100%25-00ff94?style=for-the-badge&labelColor=0a0a0a" />
-<p>Native speaker with full proficiency</p>
-</td>
-<td align="center" width="250">
-<h3>ENGLISH</h3>
-<img src="https://img.shields.io/badge/FLUENT-95%25-00d9ff?style=for-the-badge&labelColor=0a0a0a" />
-<p>Fluent in technical and business communication</p>
-</td>
-<td align="center" width="250">
-<h3>RUSSIAN</h3>
-<img src="https://img.shields.io/badge/TECHNICAL-80%25-ffaa00?style=for-the-badge&labelColor=0a0a0a" />
-<p>Proficient in technical documentation</p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## SUPPORT MY WORK
-
-<div align="center">
-
-**If you find my projects helpful, consider supporting me**
-
-<a href="https://www.buymeacoffee.com/hojiakbar">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hojiakbar&button_colour=00ff94&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" height="60" />
-</a>
-
-<br><br>
-
-**Star my repositories if you like my work**
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
-
-</div>
-
----
-
-<details>
-<summary><h2>MORE ABOUT ME</h2></summary>
-<br>
-
-```typescript
-interface DeveloperProfile {
-  name: string;
-  role: string;
-  location: string;
-  experience: string;
-  education: string;
-  interests: string[];
-  dailyRoutine: string[];
-  currentlyLearning: string[];
-  askMeAbout: string[];
-}
-
-const hojiakbar: DeveloperProfile = {
-  name: "Hojiakbar Saidrasulov",
-  role: "Full Stack Developer",
-  location: "Tashkent, Uzbekistan",
-  experience: "Building scalable web applications",
-  education: "Computer Science & Software Engineering",
-  
-  interests: [
-    "Competitive Programming",
-    "System Architecture",
-    "Code Optimization",
-    "Football (Ronaldo Fan)",
-    "Cinema & Movies"
-  ],
-  
-  dailyRoutine: [
-    "Morning coffee",
-    "Code review",
-    "Feature development",
-    "Problem solving",
-    "Learning new tech",
-    "Code optimization",
-    "Evening workout"
-  ],
-  
-  currentlyLearning: [
-    "Kubernetes orchestration",
-    "Advanced system design",
-    "Cloud architecture patterns",
-    "GraphQL best practices",
-    "Event-driven architecture"
-  ],
-  
-  askMeAbout: [
-    "Java Spring Boot development",
-    "React and TypeScript",
-    "Algorithm optimization",
-    "Microservices architecture",
-    "Database design",
-    "RESTful API design"
-  ]
-};
-
-class Developer {
-  constructor(private profile: DeveloperProfile) {}
-  
-  getSkillLevel(skill: string): string {
-    const skills = {
-      "Java": "Expert",
-      "JavaScript": "Expert",
-      "Spring Boot": "Advanced",
-      "React": "Advanced",
-      "Algorithms": "Advanced",
-      "System Design": "Intermediate"
-    };
-    return skills[skill] || "Learning";
-  }
-  
-  getMotivation(): string {
-    return "Passionate about writing clean, efficient code and solving complex problems";
-  }
-}
-
-const me = new Developer(hojiakbar);
-console.log(me.getMotivation());
-```
-
-### TECHNICAL SKILLS BREAKDOWN
-
-**Backend Development**
-- Java Spring Boot ecosystem
-- Node.js and Express framework
-- RESTful API design and implementation
-- Microservices architecture patterns
-- Database design and optimization
-- Authentication and authorization
-- Caching strategies with Redis
-- Message queues integration
-
-**Frontend Development**
-- React with Hooks and Context API
-- Redux state management
-- TypeScript for type safety
-- Responsive design principles
-- Modern CSS with Tailwind
-- Component-based architecture
-- Performance optimization techniques
-
-**Algorithms & Data Structures**
-- Graph theory and traversal algorithms
-- Dynamic programming solutions
-- Greedy algorithm strategies
-- Binary search implementations
-- Advanced data structures
-- Time and space complexity analysis
-- Problem-solving techniques
-
-**DevOps & Tools**
-- Docker containerization
-- Git version control
-- Linux system administration
-- CI/CD pipeline setup
-- Cloud deployment strategies
-- Application monitoring
-
-</details>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=footer&text=THANKS+FOR+VISITING&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=ffffff" width="100%"/>
-
-### LET'S BUILD SOMETHING AMAZING TOGETHER
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Hojiakbar1101&label=PROFILE+VIEWS&color=00ff94&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
-
-<br><br>
-
-**MADE WITH PASSION BY HOJIAKBAR SAIDRASULOV**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
-
-</div>
+**Accuracy:** 95% bug detection rate, 80% false positive reduction
