@@ -1,37 +1,62 @@
 <div align="center">
-HOJIAKBAR SAIDRASULOV
+
+# HOJIAKBAR SAIDRASULOV
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00FF94&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=FULL+STACK+DEVELOPER+%7C+COMPETITIVE+PROGRAMMER;500%2B+PROBLEMS+SOLVED+%7C+JAVA+%26+JAVASCRIPT+EXPERT;BUILDING+SCALABLE+SYSTEMS+%7C+MICROSERVICES+ARCHITECT" alt="Typing SVG" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-<div align="center">
-Show Image
-Show Image
-Show Image
+
 </div>
 
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Hojiakbar1101&label=PROFILE+VIEWS&color=00ff94&style=for-the-badge&labelColor=0a0a0a)](https://github.com/Hojiakbar1101)
+[![GitHub Followers](https://img.shields.io/github/followers/Hojiakbar1101?label=FOLLOWERS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/Hojiakbar1101)
+[![Total Stars](https://img.shields.io/github/stars/Hojiakbar1101?label=TOTAL+STARS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/Hojiakbar1101)
+
+</div>
+
+---
+
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-ABOUT ME
-Full Stack Developer | Competitive Programmer | Problem Solver
+
+## ABOUT ME
+
+**Full Stack Developer | Competitive Programmer | Problem Solver**
+
 Currently focused on building enterprise-level applications with cutting-edge technologies. Passionate about writing clean, efficient code and solving complex algorithmic challenges.
-WHAT I DO
-Backend Development - Architecting scalable microservices with Spring Boot and Node.js
-Frontend Engineering - Creating responsive user interfaces with React and TypeScript
-Problem Solving - 500+ algorithmic problems solved across multiple platforms
-System Design - Designing distributed systems and RESTful APIs
-Code Optimization - Improving performance and writing maintainable code
+
+### WHAT I DO
+
+**Backend Development** - Architecting scalable microservices with Spring Boot and Node.js
+
+**Frontend Engineering** - Creating responsive user interfaces with React and TypeScript
+
+**Problem Solving** - 500+ algorithmic problems solved across multiple platforms
+
+**System Design** - Designing distributed systems and RESTful APIs
+
+**Code Optimization** - Improving performance and writing maintainable code
+
 <br clear="right"/>
-CURRENT FOCUS
-Working on Microservices Architecture and Cloud Computing
-Learning Kubernetes, Docker, and Advanced System Design
-Collaborating on Open Source Projects and Innovative Solutions
-Exploring Distributed Systems and Event-Driven Architecture
+
+### CURRENT FOCUS
+
+Working on **Microservices Architecture** and **Cloud Computing**
+
+Learning **Kubernetes**, **Docker**, and **Advanced System Design**
+
+Collaborating on **Open Source Projects** and **Innovative Solutions**
+
+Exploring **Distributed Systems** and **Event-Driven Architecture**
+
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## TECHNOLOGY STACK
-
+TECHNOLOGY ARSENAL
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 PROGRAMMING LANGUAGES & PARADIGMS
 <table>
 <tr>
@@ -348,6 +373,46 @@ DEVOPS & CLOUD INFRASTRUCTURE
 </tr>
 </table>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+DEVELOPMENT TOOLS & PLATFORMS
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" />
+<br><strong>Git</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="70" height="70" alt="GitHub" />
+<br><strong>GitHub</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=idea" width="70" height="70" alt="IntelliJ" />
+<br><strong>IntelliJ IDEA</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" alt="VS Code" />
+<br><strong>VS Code</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" />
+<br><strong>Postman</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="70" height="70" alt="Figma" />
+<br><strong>Figma</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vim" width="70" height="70" alt="Vim" />
+<br><strong>Vim</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+</table>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## GITHUB ANALYTICS
