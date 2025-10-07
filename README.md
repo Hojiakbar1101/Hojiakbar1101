@@ -85,143 +85,16 @@ Exploring **Distributed Systems** and **Event-Driven Architecture**
 </tr>
 </table>
 
-### BACKEND TECHNOLOGIES
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
-<br><strong>Spring Boot</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-<br><strong>Express</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=hibernate" width="65" height="65" alt="Hibernate" />
-<br><strong>Hibernate</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="Maven" />
-<br><strong>Maven</strong>
-</td>
-</tr>
-</table>
-
-### FRONTEND TECHNOLOGIES
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
-<br><strong>Redux</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-<br><strong>Tailwind CSS</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
-<br><strong>CSS3</strong>
-</td>
-</tr>
-</table>
-
-### DATABASES & CACHING
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-<br><strong>Redis</strong>
-</td>
-</tr>
-</table>
-
-### DEVOPS & TOOLS
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
-<br><strong>Kubernetes</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
-<br><strong>AWS</strong>
-</td>
-</tr>
-</table>
-
-### DEVELOPMENT TOOLS
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" />
-<br><strong>IntelliJ IDEA</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
-<br><strong>Nginx</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=gradle" width="65" height="65" alt="Gradle" />
-<br><strong>Gradle</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+BACKEND TECHNOLOGIES
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" /> <br><strong>Spring Boot</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /> <br><strong>Node.js</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" /> <br><strong>Express</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=hibernate" width="65" height="65" alt="Hibernate" /> <br><strong>Hibernate</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="Maven" /> <br><strong>Maven</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" /> <br><strong>NestJS</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" /> <br><strong>GraphQL</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" /> <br><strong>Java</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" /> <br><strong>Python</strong> </td> </tr> </table>
+FRONTEND TECHNOLOGIES
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" /> <br><strong>React</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" /> <br><strong>Redux</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" /> <br><strong>Tailwind CSS</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" /> <br><strong>HTML5</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" /> <br><strong>CSS3</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" /> <br><strong>Vue.js</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" /> <br><strong>Angular</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" /> <br><strong>JavaScript</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" /> <br><strong>TypeScript</strong> </td> </tr> </table>
+DATABASES & CACHING
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" /> <br><strong>PostgreSQL</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" /> <br><strong>MongoDB</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" /> <br><strong>MySQL</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" /> <br><strong>Redis</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=oracle" width="65" height="65" alt="Oracle" /> <br><strong>Oracle DB</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=elasticsearch" width="65" height="65" alt="Elasticsearch" /> <br><strong>Elasticsearch</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" /> <br><strong>SQLite</strong> </td> </tr> </table>
+DEVOPS & TOOLS
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" /> <br><strong>Docker</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" /> <br><strong>Kubernetes</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" /> <br><strong>Git</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" /> <br><strong>Linux</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" /> <br><strong>AWS</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="Jenkins" /> <br><strong>Jenkins</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=terraform" width="65" height="65" alt="Terraform" /> <br><strong>Terraform</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" alt="Prometheus" /> <br><strong>Prometheus</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=grafana" width="65" height="65" alt="Grafana" /> <br><strong>Grafana</strong> </td> </tr> </table>
+DEVELOPMENT TOOLS
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" /> <br><strong>IntelliJ IDEA</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" /> <br><strong>VS Code</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" /> <br><strong>Postman</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" /> <br><strong>Nginx</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=gradle" width="65" height="65" alt="Gradle" /> <br><strong>Gradle</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=swagger" width="65" height="65" alt="Swagger" /> <br><strong>Swagger</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" /> <br><strong>GitLab</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=bitbucket" width="65" height="65" alt="Bitbucket" /> <br><strong>Bitbucket</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=jira" width="65" height="65" alt="Jira" /> <br><strong>Jira</strong> </td> </tr> </table>
 ## GITHUB ANALYTICS
 
 <div align="center">
