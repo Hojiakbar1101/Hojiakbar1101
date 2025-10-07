@@ -58,9 +58,6 @@ Exploring **Distributed Systems** and **Event-Driven Architecture**
 
 <div align="center">
 
-TECHNOLOGY ARSENAL
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 PROGRAMMING LANGUAGES & PARADIGMS
 <table>
 <tr>
@@ -377,70 +374,22 @@ DEVOPS & CLOUD INFRASTRUCTURE
 </tr>
 </table>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-DEVELOPMENT TOOLS & PLATFORMS
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" />
-<br><strong>Git</strong>
-<br><sub>Expert</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="70" height="70" alt="GitHub" />
-<br><strong>GitHub</strong>
-<br><sub>Expert</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=idea" width="70" height="70" alt="IntelliJ" />
-<br><strong>IntelliJ IDEA</strong>
-<br><sub>Expert</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" alt="VS Code" />
-<br><strong>VS Code</strong>
-<br><sub>Expert</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" />
-<br><strong>Postman</strong>
-<br><sub>Expert</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=figma" width="70" height="70" alt="Figma" />
-<br><strong>Figma</strong>
-<br><sub>Intermediate</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vim" width="70" height="70" alt="Vim" />
-<br><strong>Vim</strong>
-<br><sub>Advanced</sub>
-</td>
-</tr>
-</table>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-TESTING & QUALITY ASSURANCE
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=jest" width="70" height="70" alt="Jest" />
-<br><strong>Jest</strong>
-<br><sub>Advanced</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=selenium" width="70" height="70" alt="Selenium" />
-<br><strong>Selenium</strong>
-<br><sub>Intermediate</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cypress" width="70" height="70" alt="Cypress" />
-<br><strong>Cypress</strong>
-<br><sub>Intermediate</sub>
-</td>
-</tr>
-</table>
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=Hojiakbar1101&show_icons=true&count_private=true&hide_border=true&title_color=00ff94&icon_color=00ff94&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="GitHub Stats" />
+<img width="49%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&border_radius=15" alt="GitHub Streak" />
+
+<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&hide_border=true&title_color=00ff94&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=15" alt="Top Languages" />
+<img width="49%" height="220px" src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&custom_title=Contribution%20Activity&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true&border_radius=15" alt="Activity Graph" />
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<div align="center">
+
 ### GITHUB ACHIEVEMENTS
 
 <img src="https://github-profile-trophy.vercel.app/?username=Hojiakbar1101&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=1&column=8&border_radius=15" alt="Trophy" width="100%" />
