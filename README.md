@@ -1,285 +1,442 @@
 <div align="center">
 
-# 👋 Hi, I'm Hojiakbar Saidrasulov
+# 🌟 Hojiakbar Saidrasulov
 
-### Full Stack Developer | Competitive Programmer | Problem Solver
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Problem+Solver;500%2B+Problems+Solved+%7C+Java+%26+JavaScript+Expert;Building+Scalable+Systems+%7C+Always+Learning" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Developer;Competitive+Programmer;500%2B+Problems+Solved;Always+Learning+New+Things)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-</div>
-
----
-
-## About Me
-
-I'm a passionate **Full Stack Developer** with a strong foundation in **backend development** and **competitive programming**. I love solving complex algorithmic challenges and building scalable web applications. With **500+ problems solved** across multiple platforms, I combine theoretical knowledge with practical implementation.
-
-- Currently working on **microservices architecture** and **cloud computing**
-- Learning **Kubernetes**, **Docker**, and **advanced system design**
-- Looking to collaborate on **open source projects** and **innovative web solutions**
-- Ask me about **Java**, **Spring Boot**, **React**, **algorithms**, and **data structures**
-- Fun fact: I enjoy optimizing code performance and finding elegant solutions to complex problems
-
-### Interests & Passions
-
-- **Passionate About Java and JS Full Stack Development**
-- **Huge Cristiano Ronaldo Fan**
-- **Passionate About Movies & Cinema**
-
----
-
-##  Technology Stack
-
-<div align="center">
-
-### Programming Languages
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Backend Technologies
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### Frontend Technologies
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hojiakbar1101&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge)](https://github.com/Hojiakbar1101)
+[![GitHub Followers](https://img.shields.io/github/followers/Hojiakbar1101?label=FOLLOWERS&style=for-the-badge&color=00d9ff&logo=github)](https://github.com/Hojiakbar1101)
+[![Stars](https://img.shields.io/github/stars/Hojiakbar1101?label=TOTAL+STARS&style=for-the-badge&color=00d9ff&logo=github)](https://github.com/Hojiakbar1101)
 
 </div>
 
 ---
 
-## GitHub Statistics
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<div align="center">
+### 👨‍💻 About Me
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hojiakbar1101&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=radical&hide_border=true" />
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  languages: string[];
+  expertise: string[];
+  passion: string[];
+}
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hojiakbar1101&theme=radical" />
+const hojiakbar: Developer = {
+  name: "Hojiakbar Saidrasulov",
+  role: "Full Stack Developer",
+  location: "Tashkent, Uzbekistan 🇺🇿",
+  languages: ["Java", "JavaScript", "TypeScript", "C++", "Python"],
+  expertise: ["Backend Architecture", "Algorithms", "System Design"],
+  passion: ["Cristiano Ronaldo ⚽", "Cinema 🎬", "Code Optimization 🚀"]
+};
+```
 
-</div>
+<br clear="right"/>
 
-### Contribution Graph
+### 🎯 Current Focus
 
-<div align="center">
+- 🔭 Working on **Microservices Architecture** & **Cloud Computing**
+- 🌱 Learning **Kubernetes**, **Docker**, **Advanced System Design**
+- 👯 Open to collaborate on **Open Source** & **Innovative Web Solutions**
+- 💬 Ask me about **Java**, **Spring Boot**, **React**, **Algorithms**
+- ⚡ Fun fact: **500+ Problems Solved** across multiple platforms
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&bg_color=0d1117&color=ff006e&line=8338ec&point=3a86ff&area=true&hide_border=true)
-
-</div>
-
-### Profile Trophy
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Hojiakbar1101&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
-## ompetitive Programming Journey
+## 🛠️ Tech Arsenal
 
-<details>
-<summary><b>Click to expand achievements</b></summary>
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
+<br>Hibernate
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+<br>Maven
+</td>
+</tr>
+</table>
+
+### 🗄️ Databases & DevOps
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+<br>IntelliJ
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br>Nginx
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
+<br>Gradle
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hojiakbar1101&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hojiakbar1101&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojiakbar1101&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hojiakbar1101&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophy" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## 🏆 Competitive Programming Journey
+
+<div align="center">
+
+### 📈 Problem Solving Stats
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Solved-500+-00d9ff?style=for-the-badge&logo=codechef&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/ACMP.ru-300+-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/CSES-150+-FF9800?style=for-the-badge&logo=leetcode&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/HackerRank-50+-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</td>
+</tr>
+</table>
+
+### 🎯 Algorithm Mastery
+
+<img src="https://img.shields.io/badge/Graph_Theory-Advanced-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dynamic_Programming-Expert-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Greedy_Algorithms-Proficient-95E1D3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Binary_Search-Master-F38181?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Structures-Expert-AA96DA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sorting_Algorithms-Advanced-FCBAD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graph_Traversal-Proficient-FFFFD2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/String_Algorithms-Intermediate-A8D8EA?style=for-the-badge" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Hojiakbar1101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hojiakbar1101&repo=blog-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+</a>
+<a href="https://github.com/Hojiakbar1101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hojiakbar1101&repo=realtime-chat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+</a>
+
+<a href="https://github.com/Hojiakbar1101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hojiakbar1101&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+</a>
+<a href="https://github.com/Hojiakbar1101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hojiakbar1101&repo=auth-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidrasulovhojiakbar7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hojiakbar-saidrasulov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hojiakbar_dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hojiakbar1101)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hojiakbar.dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hojiakbar)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/hojiakbar)
 
 <br>
 
-**Achievements:**
-- 500+ Problems Solved
-- STL Mastery
-- Core Algorithms
-- Advanced Topics (In Progress)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-</details>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
-##  Featured Projects
+## 💭 Dev Quote
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Blog Platform** | Full-featured blogging system with authentication and real-time updates | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql) |
-| **Real-Time Chat** | Scalable chat application with private and group messaging | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) |
-| **Task Manager** | Todo application with user management and JWT authentication | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) |
-| **Auth Service** | Authentication microservice with role-based access control | ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) |
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
 </div>
 
 ---
 
-##  Competitive Programming
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### Problem Solving Statistics
-
-| Platform | Problems Solved | Focus Areas |
-|----------|----------------|-------------|
-| **ACMP.ru** | 300+ | Main Practice Platform |
-| **CSES** | 150+ | Algorithm Mastery |
-| **HackerRank** | 50+ | Data Structures |
-| **LeetCode** | Various | Interview Preparation |
-
-### Algorithm Specializations
-![Graph Theory](https://img.shields.io/badge/-Graph_Theory-FF6B6B?style=for-the-badge)
-![Dynamic Programming](https://img.shields.io/badge/-Dynamic_Programming-4ECDC4?style=for-the-badge)
-![Greedy Algorithms](https://img.shields.io/badge/-Greedy-95E1D3?style=for-the-badge)
-![Binary Search](https://img.shields.io/badge/-Binary_Search-F38181?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/-Data_Structures-AA96DA?style=for-the-badge)
-![Sorting](https://img.shields.io/badge/-Sorting-FCBAD3?style=for-the-badge)
-![Graph Traversal](https://img.shields.io/badge/-Graph_Traversal-FFFFD2?style=for-the-badge)
-![String Algorithms](https://img.shields.io/badge/-String_Algorithms-A8D8EA?style=for-the-badge)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-##  Professional Interests
+## ☕ Support My Work
 
 <div align="center">
 
-![Backend Architecture](https://img.shields.io/badge/-Backend_Architecture-6366F1?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/-Design_Patterns-8B5CF6?style=flat-square)
-![Algorithm Optimization](https://img.shields.io/badge/-Algorithm_Optimization-A78BFA?style=flat-square)
-![Web Performance](https://img.shields.io/badge/-Web_Performance-C4B5FD?style=flat-square)
-![Clean Code](https://img.shields.io/badge/-Clean_Code-DDD6FE?style=flat-square)
-![Open Source](https://img.shields.io/badge/-Open_Source-EDE9FE?style=flat-square)
-![Microservices](https://img.shields.io/badge/-Microservices-6366F1?style=flat-square)
-![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-8B5CF6?style=flat-square)
-![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-A78BFA?style=flat-square)
-![Database Design](https://img.shields.io/badge/-Database_Design-C4B5FD?style=flat-square)
-
-</div>
-
----
-
-## Language Proficiency
-
-<div align="center">
-
-| Language | Level | Badge |
-|----------|-------|-------|
-| Uzbek | Native | ![Uzbek](https://img.shields.io/badge/Uzbek-Native-success?style=for-the-badge) |
-| English | Fluent | ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge) |
-| Russian | Technical | ![Russian](https://img.shields.io/badge/Russian-Technical-yellow?style=for-the-badge) |
-
-</div>
-
----
-
-##  Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidrasulovhojiakbar7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hojiakbar1101)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-
-</div>
-
----
-
-<div align="center">
-
----
-
-## Daily Dev Quotes
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## Support Me
-
-If you like my work, consider buying me a coffee!
-
-<a href="https://www.buymeacoffee.com/hojiakbar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+<a href="https://www.buymeacoffee.com/hojiakbar">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hojiakbar&button_colour=00d9ff&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
 </a>
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+
+**If you like my projects, give them a ⭐ and follow me on GitHub!**
+
+</div>
+
 ---
 
-## Let's Connect and Build Something Amazing Together!
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 🔥 Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hojiakbar1101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E" alt="GitHub Streak" />
+
+### 📅 Contribution Calendar
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hojiakbar1101&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Last%2030%20Days%20Contribution%20Graph" alt="Contribution Calendar" />
+
+</div>
 
 ---
 
 <details>
-<summary><b>More About Me</b></summary>
+<summary><b>🎨 More About Me</b></summary>
 <br>
 
 ```javascript
-const hojiakbar = {
-    code: ["Java", "JavaScript", "TypeScript", "C++", "Python"],
-    askMeAbout: ["web dev", "algorithms", "backend", "competitive programming"],
-    technologies: {
-        backEnd: {
-            java: ["Spring Boot", "Spring Security", "Hibernate"],
-            js: ["Node.js", "Express"]
-        },
-        frontEnd: {
-            js: ["React", "Redux"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        devOps: ["Docker", "Git", "Linux"],
-        tools: ["Postman", "IntelliJ IDEA", "VS Code"]
-    },
-    architecture: ["Microservices", "RESTful APIs", "MVC"],
-    currentFocus: "Building scalable backend systems",
-    funFact: "I debug with console.log more than I'd like to admit"
-};
+class Developer {
+  constructor() {
+    this.name = "Hojiakbar Saidrasulov";
+    this.title = "Full Stack Developer";
+    this.location = "Tashkent, Uzbekistan";
+    this.workingOn = ["Microservices", "Cloud Computing", "System Design"];
+    this.learning = ["Kubernetes", "Docker", "Advanced Algorithms"];
+  }
+
+  getDailyRoutine() {
+    return [
+      "☕ Coffee",
+      "💻 Code",
+      "🐛 Debug", 
+      "📚 Learn",
+      "⚽ Watch Ronaldo",
+      "🎬 Watch Movies",
+      "🔁 Repeat"
+    ];
+  }
+
+  getSkills() {
+    return {
+      languages: ["Java", "JavaScript", "TypeScript", "C++", "Python"],
+      backend: ["Spring Boot", "Node.js", "Express", "Hibernate"],
+      frontend: ["React", "Redux", "Tailwind CSS", "HTML/CSS"],
+      databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+      devOps: ["Docker", "Git", "Linux", "AWS"],
+      softSkills: ["Problem Solving", "Team Collaboration", "Fast Learning"]
+    };
+  }
+
+  getFunFacts() {
+    return [
+      "🎯 Solved 500+ algorithmic problems",
+      "⚡ Love optimizing code performance",
+      "🏆 Huge Cristiano Ronaldo fan",
+      "🎬 Passionate about cinema",
+      "🚀 Always learning new technologies",
+      "💡 Believe in clean code & best practices"
+    ];
+  }
+}
+
+const me = new Developer();
+console.log(me.getDailyRoutine());
 ```
 
 </details>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hojiakbar1101&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<p align="center">
-  <b>Made with passion by <a href="https://github.com/Hojiakbar1101">Hojiakbar Saidrasulov</a></b>
-</p>
+### 💬 Let's Build Something Amazing Together!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Hojiakbar1101&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+
+**Made with 💙 & ☕ by [Hojiakbar Saidrasulov](https://github.com/Hojiakbar1101)**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
 </div>
