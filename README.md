@@ -1,37 +1,30 @@
 <div align="center">
 HOJIAKBAR SAIDRASULOV
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&duration=2000&pause=500&color=00FF94&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=180&lines=FULL+STACK+ARCHITECT+%7C+SYSTEM+DESIGN+EXPERT;1000%2B+PROBLEMS+CONQUERED+%7C+ALGORITHM+MASTER;MICROSERVICES+%7C+CLOUD+NATIVE+%7C+DEVOPS+WIZARD;PERFORMANCE+OPTIMIZER+%7C+CODE+CRAFTSMAN;DISTRIBUTED+SYSTEMS+%7C+SCALABILITY+EXPERT" alt="Typing SVG" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00FF94&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=FULL+STACK+DEVELOPER+%7C+COMPETITIVE+PROGRAMMER;500%2B+PROBLEMS+SOLVED+%7C+JAVA+%26+JAVASCRIPT+EXPERT;BUILDING+SCALABLE+SYSTEMS+%7C+MICROSERVICES+ARCHITECT" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 <div align="center">
 Show Image
 Show Image
 Show Image
-Show Image
-Show Image
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-PROFESSIONAL IDENTITY
-Elite Full Stack Developer | System Architecture Specialist | Algorithm Virtuoso
-Architecting next-generation enterprise solutions with bleeding-edge technologies. Mastering the art of writing bulletproof, high-performance code while solving the most intricate computational challenges known to modern software engineering.
-CORE COMPETENCIES
-Backend Mastery - Designing fault-tolerant microservices architectures with Spring Boot, Node.js, and cutting-edge frameworks
-Frontend Excellence - Crafting pixel-perfect, lightning-fast user experiences with React, Next.js, Vue.js, and Angular
-Algorithm Wizardry - Crushing 1000+ algorithmic challenges across competitive programming platforms worldwide
-System Architecture - Engineering distributed systems, event-driven architectures, and real-time data processing pipelines
-Performance Engineering - Optimizing application performance, database queries, and implementing advanced caching strategies
-Cloud Infrastructure - Deploying and managing scalable applications on AWS, Azure, Google Cloud, and DigitalOcean
-DevOps Automation - Building CI/CD pipelines, infrastructure as code, and container orchestration systems
-Security Implementation - Implementing OAuth2, JWT, SSL/TLS, encryption, and enterprise-grade security protocols
+
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+ABOUT ME
+Full Stack Developer | Competitive Programmer | Problem Solver
+Currently focused on building enterprise-level applications with cutting-edge technologies. Passionate about writing clean, efficient code and solving complex algorithmic challenges.
+WHAT I DO
+Backend Development - Architecting scalable microservices with Spring Boot and Node.js
+Frontend Engineering - Creating responsive user interfaces with React and TypeScript
+Problem Solving - 500+ algorithmic problems solved across multiple platforms
+System Design - Designing distributed systems and RESTful APIs
+Code Optimization - Improving performance and writing maintainable code
 <br clear="right"/>
-CURRENT MISSION
-Pioneering Advanced Microservices Architectures and Cloud-Native Solutions
-Deep-diving into Kubernetes, Service Mesh, Serverless Computing, and Event Streaming
-Contributing to Open Source Innovation and Revolutionary Tech Solutions
-Researching Distributed Tracing, Observability, Chaos Engineering, and Site Reliability Engineering
-Mastering GraphQL Federation, gRPC, WebAssembly, and Edge Computing
+CURRENT FOCUS
+Working on Microservices Architecture and Cloud Computing
+Learning Kubernetes, Docker, and Advanced System Design
+Collaborating on Open Source Projects and Innovative Solutions
+Exploring Distributed Systems and Event-Driven Architecture
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
